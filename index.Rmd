@@ -1,10 +1,10 @@
 --- 
-title: "Formulation d'aliments pour animaux d'élevage"
-author: "zcoulibali"
+title: "Principes de la formulation des aliments pour animaux d'élevage"
+author: "ZCoulibali, Agronome, PhD."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+#bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Notes du cours de formulation, format gitbook."
@@ -36,4 +36,16 @@ De façon spécifique, tout apprenant au sortir de ce cours devait être à mesu
 
 En d’autres termes, l’apprenant devrait être à mesure de comprendre les bases scientifiques de la formulation, c’est-à-dire les matières premières utilisées dans l’alimentation et la théorie des modèles de recommandations dans la conduite de l’alimention animale.
 
-# Table des matières
+Le document est organisé selon la table des matières ci-après:
+
+1. [Objectifs du cours]()
+
+2. [Rappels sur les aliments]()
+
+3. [Digestion des aliments]()
+
+4. [Expression des besoins et des apports]()
+
+5. [Pratique de la formulation]()
+
+6. [Références bibliographiques]()
