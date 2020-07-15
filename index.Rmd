@@ -38,14 +38,14 @@ En d’autres termes, l’apprenant devrait être à mesure de comprendre les ba
 
 Le document est organisé selon la table des matières ci-après:
 
-1. [Objectifs du cours]()
+1. [Objectifs du cours](https://rgoals.github.io/formulation/index.html)
 
-2. [Rappels sur les aliments]()
+2. [Rappels sur les aliments](https://rgoals.github.io/formulation/rappels.html)
 
-3. [Digestion des aliments]()
+3. [Digestion des aliments](https://rgoals.github.io/formulation/digestion.html)
 
-4. [Expression des besoins et des apports]()
+4. [Expression des besoins et des apports](https://rgoals.github.io/formulation/expression.html)
 
-5. [Pratique de la formulation]()
+5. [Pratique de la formulation](https://rgoals.github.io/formulation/pratique.html)
 
-6. [Références bibliographiques]()
+6. [Références bibliographiques](https://rgoals.github.io/formulation/references.html)

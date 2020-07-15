@@ -52,68 +52,6 @@
 
 
 
-<style type="text/css">
-a.sourceLine { display: inline-block; line-height: 1.25; }
-a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
-a.sourceLine:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode { white-space: pre; position: relative; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-code.sourceCode { white-space: pre-wrap; }
-a.sourceLine { text-indent: -1em; padding-left: 1em; }
-}
-pre.numberSource a.sourceLine
-  { position: relative; left: -4em; }
-pre.numberSource a.sourceLine::before
-  { content: attr(title);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; pointer-events: all; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-    color: #aaaaaa;
-  }
-pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
-div.sourceCode
-  {  }
-@media screen {
-a.sourceLine::before { text-decoration: underline; }
-}
-code span.al { color: #ff0000; font-weight: bold; } /* Alert */
-code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
-code span.at { color: #7d9029; } /* Attribute */
-code span.bn { color: #40a070; } /* BaseN */
-code span.bu { } /* BuiltIn */
-code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
-code span.ch { color: #4070a0; } /* Char */
-code span.cn { color: #880000; } /* Constant */
-code span.co { color: #60a0b0; font-style: italic; } /* Comment */
-code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
-code span.do { color: #ba2121; font-style: italic; } /* Documentation */
-code span.dt { color: #902000; } /* DataType */
-code span.dv { color: #40a070; } /* DecVal */
-code span.er { color: #ff0000; font-weight: bold; } /* Error */
-code span.ex { } /* Extension */
-code span.fl { color: #40a070; } /* Float */
-code span.fu { color: #06287e; } /* Function */
-code span.im { } /* Import */
-code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
-code span.kw { color: #007020; font-weight: bold; } /* Keyword */
-code span.op { color: #666666; } /* Operator */
-code span.ot { color: #007020; } /* Other */
-code span.pp { color: #bc7a00; } /* Preprocessor */
-code span.sc { color: #4070a0; } /* SpecialChar */
-code span.ss { color: #bb6688; } /* SpecialString */
-code span.st { color: #4070a0; } /* String */
-code span.va { color: #19177c; } /* Variable */
-code span.vs { color: #4070a0; } /* VerbatimString */
-code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
-</style>
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
@@ -132,7 +70,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 <li class="divider"></li>
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Objectifs du cours</a></li>
-<li class="chapter" data-level="2" data-path="rappels.html"><a href="rappels.html"><i class="fa fa-check"></i><b>2</b> Rappels sur les aliments</a></li>
+<li class="chapter" data-level="2" data-path="rappels.html"><a href="rappels.html"><i class="fa fa-check"></i><b>2</b> Rappels sur les aliments</a><ul>
+<li class="chapter" data-level="2.1" data-path="rappels.html"><a href="rappels.html#les-sources-dénergies"><i class="fa fa-check"></i><b>2.1</b> Les sources d’énergies</a></li>
+<li class="chapter" data-level="2.2" data-path="rappels.html"><a href="rappels.html#les-sources-de-protéines"><i class="fa fa-check"></i><b>2.2</b> Les sources de protéines</a></li>
+<li class="chapter" data-level="2.3" data-path="rappels.html"><a href="rappels.html#les-sources-de-calcium-et-de-phosphore"><i class="fa fa-check"></i><b>2.3</b> Les sources de calcium et de phosphore</a></li>
+<li class="chapter" data-level="2.4" data-path="rappels.html"><a href="rappels.html#les-autres-macroéléments-les-oligo-éléments-et-les-vitamines"><i class="fa fa-check"></i><b>2.4</b> Les autres macroéléments, les oligo-éléments et les vitamines</a></li>
+</ul></li>
 <li class="chapter" data-level="3" data-path="digestion.html"><a href="digestion.html"><i class="fa fa-check"></i><b>3</b> Digestion des aliments</a></li>
 <li class="chapter" data-level="4" data-path="expression.html"><a href="expression.html"><i class="fa fa-check"></i><b>4</b> Expression des besoins des animaux et des apports de la ration</a><ul>
 <li class="chapter" data-level="4.1" data-path="expression.html"><a href="expression.html#example-one"><i class="fa fa-check"></i><b>4.1</b> Example one</a></li>
@@ -162,177 +105,40 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
             <section class="normal" id="section-">
 <div id="rappels" class="section level1">
 <h1><span class="header-section-number">Chapter 2</span> Rappels sur les aliments</h1>
-<p>You can label chapter and section titles using <code>{#label}</code> after them, e.g., we can reference Chapter <a href="#intro"><strong>??</strong></a>. If you do not manually label them, there will be automatic labels anyway, e.g., Chapter <a href="#methods"><strong>??</strong></a>.</p>
-<p>Figures and tables with captions will be placed in <code>figure</code> and <code>table</code> environments, respectively.</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">par</span>(<span class="dt">mar =</span> <span class="kw">c</span>(<span class="dv">4</span>, <span class="dv">4</span>, <span class="fl">.1</span>, <span class="fl">.1</span>))</a>
-<a class="sourceLine" id="cb1-2" title="2"><span class="kw">plot</span>(pressure, <span class="dt">type =</span> <span class="st">&#39;b&#39;</span>, <span class="dt">pch =</span> <span class="dv">19</span>)</a></code></pre></div>
-<div class="figure" style="text-align: center"><span id="fig:nice-fig"></span>
-<img src="formulation_files/figure-html/nice-fig-1.png" alt="Here is a nice figure!" width="80%" />
-<p class="caption">
-Figure 2.1: Here is a nice figure!
-</p>
+<p>On peut classer les aliments selon leurs particularités, à savoir ceux qui fournissent l’énergie, les sources de protéines, de calcium et de phosphore et les autres macroéléments, les oligo-éléments et les vitamines.</p>
+<div id="les-sources-dénergies" class="section level2">
+<h2><span class="header-section-number">2.1</span> Les sources d’énergies</h2>
+<p>Les <strong>céréales</strong> sont généralement la principale source d’énergie des provendes. Le maïs est plus énergétique que le <strong>mil</strong>, le <strong>sorgho</strong> ou le <strong>blé</strong>. Les <strong>farines basses</strong> de <strong>riz</strong> et de <strong>blé</strong> (remoulages) ont également une bonne valeur énergétique.</p>
+<p>Les <strong>sons</strong> ont une teneur (concentration) moyenne en énergie, mais ils sont indispensables pour régulariser le transit digestif chez la volaille.</p>
+<p>Les <strong>huiles végétales</strong> et les <strong>graisses animales</strong> constituent quant à elles, des sources d’énergie pratiquement pure et sont utilisées dans les régimes nécessitant une valeur énergétique élevée.</p>
 </div>
-<p>Reference a figure by its code chunk label with the <code>fig:</code> prefix, e.g., see Figure <a href="rappels.html#fig:nice-fig">2.1</a>. Similarly, you can reference tables generated from <code>knitr::kable()</code>, e.g., see Table <a href="rappels.html#tab:nice-tab">2.1</a>.</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb2-1" title="1">knitr<span class="op">::</span><span class="kw">kable</span>(</a>
-<a class="sourceLine" id="cb2-2" title="2">  <span class="kw">head</span>(iris, <span class="dv">20</span>), <span class="dt">caption =</span> <span class="st">&#39;Here is a nice table!&#39;</span>,</a>
-<a class="sourceLine" id="cb2-3" title="3">  <span class="dt">booktabs =</span> <span class="ot">TRUE</span></a>
-<a class="sourceLine" id="cb2-4" title="4">)</a></code></pre></div>
-<table>
-<caption><span id="tab:nice-tab">Table 2.1: </span>Here is a nice table!</caption>
-<thead>
-<tr class="header">
-<th align="right">Sepal.Length</th>
-<th align="right">Sepal.Width</th>
-<th align="right">Petal.Length</th>
-<th align="right">Petal.Width</th>
-<th align="left">Species</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="right">5.1</td>
-<td align="right">3.5</td>
-<td align="right">1.4</td>
-<td align="right">0.2</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="even">
-<td align="right">4.9</td>
-<td align="right">3.0</td>
-<td align="right">1.4</td>
-<td align="right">0.2</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="odd">
-<td align="right">4.7</td>
-<td align="right">3.2</td>
-<td align="right">1.3</td>
-<td align="right">0.2</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="even">
-<td align="right">4.6</td>
-<td align="right">3.1</td>
-<td align="right">1.5</td>
-<td align="right">0.2</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="odd">
-<td align="right">5.0</td>
-<td align="right">3.6</td>
-<td align="right">1.4</td>
-<td align="right">0.2</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="even">
-<td align="right">5.4</td>
-<td align="right">3.9</td>
-<td align="right">1.7</td>
-<td align="right">0.4</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="odd">
-<td align="right">4.6</td>
-<td align="right">3.4</td>
-<td align="right">1.4</td>
-<td align="right">0.3</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="even">
-<td align="right">5.0</td>
-<td align="right">3.4</td>
-<td align="right">1.5</td>
-<td align="right">0.2</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="odd">
-<td align="right">4.4</td>
-<td align="right">2.9</td>
-<td align="right">1.4</td>
-<td align="right">0.2</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="even">
-<td align="right">4.9</td>
-<td align="right">3.1</td>
-<td align="right">1.5</td>
-<td align="right">0.1</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="odd">
-<td align="right">5.4</td>
-<td align="right">3.7</td>
-<td align="right">1.5</td>
-<td align="right">0.2</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="even">
-<td align="right">4.8</td>
-<td align="right">3.4</td>
-<td align="right">1.6</td>
-<td align="right">0.2</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="odd">
-<td align="right">4.8</td>
-<td align="right">3.0</td>
-<td align="right">1.4</td>
-<td align="right">0.1</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="even">
-<td align="right">4.3</td>
-<td align="right">3.0</td>
-<td align="right">1.1</td>
-<td align="right">0.1</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="odd">
-<td align="right">5.8</td>
-<td align="right">4.0</td>
-<td align="right">1.2</td>
-<td align="right">0.2</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="even">
-<td align="right">5.7</td>
-<td align="right">4.4</td>
-<td align="right">1.5</td>
-<td align="right">0.4</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="odd">
-<td align="right">5.4</td>
-<td align="right">3.9</td>
-<td align="right">1.3</td>
-<td align="right">0.4</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="even">
-<td align="right">5.1</td>
-<td align="right">3.5</td>
-<td align="right">1.4</td>
-<td align="right">0.3</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="odd">
-<td align="right">5.7</td>
-<td align="right">3.8</td>
-<td align="right">1.7</td>
-<td align="right">0.3</td>
-<td align="left">setosa</td>
-</tr>
-<tr class="even">
-<td align="right">5.1</td>
-<td align="right">3.8</td>
-<td align="right">1.5</td>
-<td align="right">0.3</td>
-<td align="left">setosa</td>
-</tr>
-</tbody>
-</table>
-<p>You can write citations, too. For example, we are using the <strong>bookdown</strong> package <span class="citation">[@R-bookdown]</span> in this sample book, which was built on top of R Markdown and <strong>knitr</strong> <span class="citation">[@xie2015]</span>.</p>
+<div id="les-sources-de-protéines" class="section level2">
+<h2><span class="header-section-number">2.2</span> Les sources de protéines</h2>
+<p>Les <strong>tourteaux</strong> (<em>soya, arachide, coton, palmiste, …</em>) apportent la majorité des protéines de la ration. La <strong>farine de poisson</strong> est une excellente source de protéines riche en <strong>lysine</strong> et en <strong>méthionine</strong>.</p>
+<p>La lysine et la méthionine de synthèse sont généralement incorporées aux mélanges pour satisfaire les besoins en ces deux acides aminés essentiels, généralement trop peu présents dans les matières premières.</p>
+</div>
+<div id="les-sources-de-calcium-et-de-phosphore" class="section level2">
+<h2><span class="header-section-number">2.3</span> Les sources de calcium et de phosphore</h2>
+<p>La <strong>craie</strong> (carbonate de calcium), les <strong>phosphores</strong>, les <strong>coquillages</strong> broyés, les <strong>coquilles</strong> d’huîtres et les poudres d’<strong>os</strong> sont généralement utilisées. Les concentrés minéraux du commerce apportent également ces éléments en quantités variables.</p>
+</div>
+<div id="les-autres-macroéléments-les-oligo-éléments-et-les-vitamines" class="section level2">
+<h2><span class="header-section-number">2.4</span> Les autres macroéléments, les oligo-éléments et les vitamines</h2>
+<p>Les <strong>concentrés minéraux-vitamines</strong> (CMV) du commerce sont la principale source de ces différents éléments, et sont généralement incorporés à des doses qui varient entre 0,5 et 5% de la ration.</p>
+<p>Les aliments distribués aux bovins, simples ou mélangés, sont composés d’eau et de divers nutriments (<em>des glucides, des lipides, des matières azotées, des vitamines et des minéraux</em>) ainsi que des substances totalement dépourvues de valeur nutritive telle que la lignine.</p>
+<p>Le <strong>nutriment</strong> est une substance chimique contenue telle quelle dans les aliments ou provenant de leur digestion, et que les cellules utilisent directement dans leur métabolisme.</p>
+<p>Lorsqu’on place un aliment dans une <strong>étuve</strong>, l’eau contenue dans l’aliment s’évapore et le résidu sec est appelé <strong>matière sèche</strong> (MS).</p>
+<p>Tous les aliments contiennent une certaine fraction (proportion) de <strong>MS</strong>. Ainsi, la teneur en MS de l’<strong>herbe</strong> est de l’ordre de 20%, alors que celles du <strong>foin</strong> et des <strong>céréales</strong> se situent entre 85 et 90%.</p>
+<p>La MS comprend la <strong>matière organique</strong> (<em>caractérisée par la présence d’atomes de carbone</em>) et la <strong>matière minérale</strong>. La matière organique renferme les glucides, la lignine, les lipides, les matières azotées et les vitamines. La matière minérale comprend quant à elle les minéraux. L’organigramme ci-après présente la composition des aliments selon <strong>Brocard et al (2010)</strong>.</p>
+<div class="figure">
+<img src="figures/diag21.png" alt="fig21-composition" />
+<p class="caption">fig21-composition</p>
+</div>
+<p><img src = "figures/diag21.png" alt = "figures/diag21" width = "500" height = "500"/></p>
+<p>``{r, fig21-composition, fig.height = 10, fig.width = 5, out.width = “100%”, fig.align = “center”, warning = FALSE, message = FALSE, fig.cap = “Composition des aliments selon Brocard et al (2010).”, echo = FALSE}
+plot()
+```</p>
 
+</div>
 </div>
             </section>
 
