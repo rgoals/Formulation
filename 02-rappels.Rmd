@@ -1,4 +1,4 @@
-# Rappels sur les aliments {#rappels}
+# Rappels sur les aliments
 
 On peut classer les aliments selon leurs particularités, à savoir ceux qui fournissent l’énergie, les sources de protéines, de calcium et de phosphore et les autres macroéléments, les oligo-éléments et les vitamines.
 
@@ -32,18 +32,6 @@ Lorsqu’on place un aliment dans une **étuve**, l’eau contenue dans l’alim
 
 Tous les aliments contiennent une certaine fraction (proportion) de **MS**. Ainsi, la teneur en MS de l’**herbe** est de l’ordre de 20%, alors que celles du **foin** et des **céréales** se situent entre 85 et 90%.
 
-La MS comprend la **matière organique** (_caractérisée par la présence d’atomes de carbone_) et la **matière minérale**. La matière organique renferme les glucides, la lignine, les lipides, les matières azotées et les vitamines. La matière minérale comprend quant à elle les minéraux. L'organigramme ci-après présente la composition des aliments selon **Brocard et al (2010)**.
+La MS comprend la **matière organique** (_caractérisée par la présence d’atomes de carbone_) et la **matière minérale**. La matière organique renferme les glucides, la lignine, les lipides, les matières azotées et les vitamines. La matière minérale comprend quant à elle les minéraux. L'organigramme ci-après présente la composition des aliments selon **Brocard et al. (2010)**.
 
-![fig21-composition](figures/diag21.png)
-
-
-
-
-
-
-``{r, fig21-composition, fig.height = 10, fig.width = 5, out.width = "100%", fig.align = "center", warning = FALSE, message = FALSE, fig.cap = "Composition des aliments selon Brocard et al (2010).", echo = FALSE}
-plot()
-```
-
-
-
+<img src = "figures/diag21.png" alt = "figures/diag21" width = "700" height = "500"/>

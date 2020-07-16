@@ -1,3 +1,105 @@
-# Digestion des aliments {#digestion}
+# Digestion des aliments
 
-We describe our methods in this chapter.
+La grande partie des composés organiques des aliments est sous forme de grosses molécules qui doivent être fragmentées en éléments plus simples susceptibles de franchir les parois du tube digestif. 
+
+La **digestion** est l’ensemble des phénomènes assurant, dans l'**appareil digestif**, la transformation des aliments en substances simples (ou nutriments) capables de passer dans le **sang** ou la **lymphe** et nécessaires à l'organisme animal (pour le métabolisme des cellules).
+
+La digestion met en jeu :
+
+- des **phénomènes physiques**, tels que la préhension, le broyage, l'humidification, le mélange et le transit des aliments (assuré par les contractions musculaires du tube digestif), et
+
+- des **phénomènes chimiques** dus à des sécrétions digestives et à l'action de la population microbienne (bactéries et protozoaires) qui se développe dans le tube digestif (Gadoud et al., 1992, Larousse agricole, édition 2002, Cuvellier et al.).
+
+Le porc est un omnivore monogastrique qui consomme des aliments d'origine animale et végétale. L'anatomie et la physiologie de son appareil digestif sont proches de celles de l'homme. Il est considéré ici comme animal de référence à partir duquel seront envisagées les particularités propres aux ruminants, au lapin et au poulet.
+
+##	Anatomie et physiologie digestive chez les monogastriques
+
+###	Chez le porc
+
+L'appareil digestif du porc est constitué du tube digestif et des glandes annexes.
+
+####	Description et rôles des parties du tube digestif
+
+Le tube digestif comprend la cavité buccale, l’estomac, l’intestin grêle, le gros intestin, le coecum et le colon (Figure 3.1).
+
+<img src = "figures/fig31.png" alt = "figures/fig31" width = "600" height = "500"/>
+
+Figure 3.1 Schéma du tube digestif du porc.
+
+Les dimensions (capacités) de chacun des composants sont comparées dans le tableau 3.1 pour le porc, le cheval et le bœuf.
+
+Tableau 3.1 : Caractéristiques comparées du tube digestif du porc, du cheval et du bœuf
+
+![Tab31](figures/tab31.png)
+
+La cavité buccale du porc est délimitée par deux fortes mâchoires sur lesquelles est implantée une denture complète selon la formule pour l'adulte par demi-mâchoire : 3/3 i, 1/1 c, 4/4 pm, 3/3 m (_i, c, c, pm, m correspondent respectivement aux incisives, canines, prémolaires et molaires_). Les glandes salivaires sont très développées.
+
+L'œsophage est un canal musculeux et très extensible animé de contractions péristaltiques réflexes, faisant suite à la déglutition. Les aliments parviennent très facilement et très rapidement à l’estomac par l’orifice du cardia qui ne comporte pas de sphincter.
+
+L'estomac est une simple poche ovoïde dont la capacité d'environ 9 litres représente un peu moins du 1/3 de celle de l’ensemble du tube digestif. Quatre zones se différencient par leur muqueuse :
+
+1. la	**zone œsophagienne**, sans glandes, peu étendue autour du cardia ;
+1. la	**zone cardiale**, riche en glandes à mucus mais ne sécrétant aucun enzyme ;
+1. la	**zone fundique** rassemblant des éléments sécrétoires libérant l'acide chlorhydrique et la pepsine ;
+1. la	**zone pylorique** riche en glandes à mucus, entourant l'orifice de vidange de l'estomac, le pylore, pourvu d'un sphincter.
+
+L’**intestin grêle** est bien développé chez le porc où il représente le 1/3 de la capacité totale du tube digestif. Il comprend d'abord le **duodénum** qui reçoit les sécrétions du foie et du pancréas, puis le **jéjunum** et l'**iléon**. La structure de l’intestin grêle est remarquable par la présence d'une muqueuse plissée formant des villosités qui en accroissent considérablement la surface. Muqueuse et sous-muqueuses renferment un grand nombre de glandes ayant un rôle important dans la digestion (Tableau 3.2).
+
+Tableau 3.2 Origine et rôles des principales sécrétions digestives chez le porc
+
+![Tab31](figures/tab32.png)
+
+Le **gros intestin** est constitué d'un **cæcum** assez volumineux (2 litres) et du **côlon** (_côlon hélicoïdal et côlon flottant_). L'ensemble du gros intestin est caractérisé par l'absence de vilosités et la présence d'une activité microbienne importante.
+
+####	Description et rôles des glandes annexes
+
+Les glandes annexes sont à l’origine des sécrétions digestives. Ces glandes peuvent être bien individualisées (_glandes salivaires, foie, pancréas_) ou disséminées dans la paroi du tube digestif (_glandes gastriques, glandes intestinales_).
+
+Les sécrétions digestives contiennent d'une part des enzymes digestives, d'autre part des substances non enzymatiques : acide chlorhydrique de l'estomac, bile du foie et mucus produit en différents lieux du tube digestif (estomac, intestin grêle, côlon).
+
+####	La digestion dans la cavité buccale
+
+Cette digestion est surtout mécanique, la mastication permettant de fragmenter les aliments et de les imbiber de salive. Un porc adulte produit environ 15 litres de salive par jour.
+
+L'action de l'_amylase salivaire, la ptyaline_ est faible car le bol alimentaire est rapidement évacué vers l'estomac où le pH (faible) n'est pas favorable à l'action de cette enzyme.
+
+####	La digestion dans l'estomac
+
+Les aliments sont stockés pendant 7 heures en moyenne. Leur brassage avec le suc gastrique et leur évacuation progressive et fractionnée par l'ouverture périodique du pylore, constituent les rôles mécaniques de l'estomac.
+
+Les glandes gastriques, situées dans la muqueuse, sécrètent le suc gastrique constitué de mucus, d'acide chlorhydrique et d'une enzyme protéolytique : la pepsine. 
+
+La digestion chimique est due à l'action de la pepsine associée à l'acide chlorhydrique qui maintient un pH bas (2 à 4) optimal pour l'activité de cette enzyme. **La protéolyse est amorcée, les produits obtenus étant constitués pour l'essentiel de polypeptides solubles dans l'eau. La digestion des protéines par la pepsine aboutit donc à leur solubilisation**.
+
+L'acide chlorhydrique sert également à désinfecter le contenu de l'estomac en détruisant les microbes apportés par les aliments et la salive.
+
+Le mucus produit dans l'estomac joue le rôle de lubrifiant et de protecteur de la muqueuse contre la pepsine et l'acide chlorhydrique. **Il peut arriver que la protection de la muqueuse soit prise en défaut, l'irritation puis l'érosion de la muqueuse conduit à l'apparition d'ulcères plus ou moins graves**.
+
+####	La digestion dans l'intestin grêle
+
+La motricité intestinale, obéissant à des phénomènes réflexes, assure le malaxage du chyme intestinal, sa progression et son contact avec l'ensemble de la muqueuse. 
+
+L'intestin grêle sécrète un suc relativement complexe contenant du mucus et de nombreuses enzymes : enzymes glycolytiques (maltase, lactase, saccharase, isomaltase), enzymes protéolytiques (peptidases) et une lipase. 
+
+L'intestin grêle reçoit également les sécrétions digestives du foie et du pancréas :
+
+-	la bile provenant du foie, stockée dans une vésicule biliaire, est déversée par le canal cholédoque juste en aval du pylore. Basique, elle a deux actions digestives : 
+1. la neutralisation du contenu acide provenant de l'estomac, et
+1. l'émulsification des lipides par l'action tensio-active des sels biliaires ; l'émulsification est nécessaire à l'action de la lipase pancréatique ;
+
+-	les sécrétions digestives du pancréas exocrine sont déversées dans le duodénum par le canal de Wirsung (à 15 cm en aval du pylore). Elles contiennent des enzymes protéolytiques : peptidases, trypsine et chymotrypsine, une amylase et une lipase.
+
+**C'est dans l'intestin grêle que s'effectue l'essentiel de la digestion chimique sous l'action conjuguée de la bile et des enzymes du pancréas et de l'intestin**. Ces enzymes constituent un équipement complet agissant sur l'ensemble des substrats alimentaires. L'intestin grêle est aussi le lieu préférentiel de l'absorption.
+
+####	Statut des principaux substrats organiques à cette étape du transit
+
+
+
+
+
+
+
+
+``{r, fig21-composition, fig.height = 10, fig.width = 5, out.width = "100%", fig.align = "center", warning = FALSE, message = FALSE, fig.cap = "Composition des aliments selon Brocard et al (2010).", echo = FALSE}
+plot()
+```

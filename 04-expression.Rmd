@@ -1,4 +1,4 @@
-# Expression des besoins des animaux et des apports de la ration {#expression}
+# Expression des besoins des animaux et des apports de la ration
 
 Some _significant_ applications are demonstrated in this chapter.
 
