@@ -1,4 +1,4 @@
-# Rappels sur les aliments
+# Rappels sur les aliments {#rappels}
 
 On peut classer les aliments selon leurs particularités, à savoir ceux qui fournissent l’énergie, les sources de protéines, de calcium et de phosphore et les autres macroéléments, les oligo-éléments et les vitamines.
 
@@ -35,3 +35,5 @@ Tous les aliments contiennent une certaine fraction (proportion) de **MS**. Ains
 La MS comprend la **matière organique** (_caractérisée par la présence d’atomes de carbone_) et la **matière minérale**. La matière organique renferme les glucides, la lignine, les lipides, les matières azotées et les vitamines. La matière minérale comprend quant à elle les minéraux. L'organigramme ci-après présente la composition des aliments selon **Brocard et al. (2010)**.
 
 <img src = "figures/diag21.png" alt = "figures/diag21" width = "700" height = "500"/>
+
+Figure 2.1 Composition des aliments selon Brocard et al (2010).

@@ -10,7 +10,7 @@ link-citations: yes
 description: "Notes du cours de formulation, format gitbook."
 ---
 
-# Objectifs du cours
+# Objectifs du cours {#intro}
 
 L’intérêt de la formulation des aliments pour animaux tient à l’adaptation permanente de leur composition à des contraintes variées et évolutives, à l’ajustement du pourcentage de chaque composante en fonction du contexte technique et des besoins des animaux. La formulation tient aussi compte de l'évolution du coût des matières premières.
 

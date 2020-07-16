@@ -1,4 +1,4 @@
-# Digestion des aliments
+# Digestion des aliments {#digestion}
 
 La grande partie des composés organiques des aliments est sous forme de grosses molécules qui doivent être fragmentées en éléments plus simples susceptibles de franchir les parois du tube digestif. 
 
@@ -97,9 +97,8 @@ L'intestin grêle reçoit également les sécrétions digestives du foie et du p
 
 
 
-
-
-
 ``{r, fig21-composition, fig.height = 10, fig.width = 5, out.width = "100%", fig.align = "center", warning = FALSE, message = FALSE, fig.cap = "Composition des aliments selon Brocard et al (2010).", echo = FALSE}
-plot()
-```
+``
+
+#### suiteggggg
+
