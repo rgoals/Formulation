@@ -1,10 +1,9 @@
 # Références {#references}
 
-## AQ
-
-## DC
-
-## VG
 
 
 
+
+
+``{r, fig21-composition, fig.height = 10, fig.width = 5, out.width = "100%", fig.align = "center", warning = FALSE, message = FALSE, fig.cap = "Composition des aliments selon Brocard et al (2010).", echo = FALSE}
+``
