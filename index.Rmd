@@ -1,6 +1,6 @@
 --- 
 title: "Principes de la formulation des aliments pour animaux d'élevage"
-author: "ZCoulibali, Agronome, PhD."
+author: "Zonlehoua Coulibali, Agronome, PhD."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -36,16 +36,16 @@ De façon spécifique, tout apprenant au sortir de ce cours devait être à mesu
 
 En d’autres termes, l’apprenant devrait être à mesure de comprendre les bases scientifiques de la formulation, c’est-à-dire les matières premières utilisées dans l’alimentation et la théorie des modèles de recommandations dans la conduite de l’alimention animale.
 
-Le document est organisé selon la table des matières ci-après:
+**Table des matières**
 
-1. [Objectifs du cours](https://rgoals.github.io/formulation/index.html)
+[**Chapitre 1.**](https://rgoals.github.io/formulation/index.html) Objectifs du cours
 
-2. [Rappels sur les aliments](https://rgoals.github.io/formulation/rappels.html)
+[**Chapitre 2.**](https://rgoals.github.io/formulation/rappels.html) Rappels sur les aliments
 
-3. [Digestion des aliments](https://rgoals.github.io/formulation/digestion.html)
+[**Chapitre 3.**](https://rgoals.github.io/formulation/digestion.html) Digestion des aliments
 
-4. [Expression des besoins et des apports](https://rgoals.github.io/formulation/expression.html)
+[**Chapitre 4.**](https://rgoals.github.io/formulation/expression.html) Expression des besoins et des apports
 
-5. [Pratique de la formulation](https://rgoals.github.io/formulation/pratique.html)
+[**Chapitre 5.**](https://rgoals.github.io/formulation/pratique.html) Pratique de la formulation
 
-6. [Références bibliographiques](https://rgoals.github.io/formulation/references.html)
+[**Références bibliographiques**](https://rgoals.github.io/formulation/references.html)
