@@ -36,7 +36,10 @@ De façon spécifique, tout apprenant au sortir de ce cours devait être à mesu
 
 En d’autres termes, l’apprenant devrait être à mesure de comprendre les bases scientifiques de la formulation, c’est-à-dire les matières premières utilisées dans l’alimentation et la théorie des modèles de recommandations dans la conduite de l’alimention animale.
 
-**Table des matières**
+_La version du document sera régulièrement actualisée_.
+
+
+**TABLE DES MATIÈRES**
 
 [**Chapitre 1.**](https://rgoals.github.io/formulation/index.html) Objectifs du cours
 
