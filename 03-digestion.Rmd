@@ -20,15 +20,15 @@ L'appareil digestif du porc est constitué du tube digestif et des glandes annex
 
 ####	Description et rôles des parties du tube digestif
 
-Le tube digestif comprend la cavité buccale, l’estomac, l’intestin grêle, le gros intestin, le coecum et le colon (Figure 3.1).
+Le tube digestif comprend la cavité buccale, l’estomac, l’intestin grêle, le gros intestin, le coecum et le colon (**Figure 3.1**).
 
 <img src = "figures/fig31.png" alt = "figures/fig31" width = "600" height = "500"/>
 
-Figure 3.1 Schéma du tube digestif du porc.
+**Figure 3.1** Schéma du tube digestif du porc.
 
-Les dimensions (capacités) de chacun des composants sont comparées dans le tableau 3.1 pour le porc, le cheval et le bœuf.
+Les dimensions (capacités) de chacun des composants sont comparées dans le **Tableau 3.1** pour le porc, le cheval et le bœuf.
 
-Tableau 3.1 : Caractéristiques comparées du tube digestif du porc, du cheval et du bœuf
+**Tableau 3.1** Caractéristiques comparées du tube digestif du porc, du cheval et du bœuf.
 
 ![](figures/tab31.png)
 
@@ -43,9 +43,9 @@ L'estomac est une simple poche ovoïde dont la capacité d'environ 9 litres repr
 1. la	**zone fundique** rassemblant des éléments sécrétoires libérant l'acide chlorhydrique et la pepsine ;
 1. la	**zone pylorique** riche en glandes à mucus, entourant l'orifice de vidange de l'estomac, le pylore, pourvu d'un sphincter.
 
-L’**intestin grêle** est bien développé chez le porc où il représente le 1/3 de la capacité totale du tube digestif. Il comprend d'abord le **duodénum** qui reçoit les sécrétions du foie et du pancréas, puis le **jéjunum** et l'**iléon**. La structure de l’intestin grêle est remarquable par la présence d'une muqueuse plissée formant des villosités qui en accroissent considérablement la surface. Muqueuse et sous-muqueuses renferment un grand nombre de glandes ayant un rôle important dans la digestion (Tableau 3.2).
+L’**intestin grêle** est bien développé chez le porc où il représente le 1/3 de la capacité totale du tube digestif. Il comprend d'abord le **duodénum** qui reçoit les sécrétions du foie et du pancréas, puis le **jéjunum** et l'**iléon**. La structure de l’intestin grêle est remarquable par la présence d'une muqueuse plissée formant des villosités qui en accroissent considérablement la surface. Muqueuse et sous-muqueuses renferment un grand nombre de glandes ayant un rôle important dans la digestion (**Tableau 3.2**).
 
-Tableau 3.2 Origine et rôles des principales sécrétions digestives chez le porc
+**Tableau 3.2** Origine et rôles des principales sécrétions digestives chez le porc.
 
 ![](figures/tab32.png)
 
@@ -167,21 +167,21 @@ Jusqu'à ce stade, le fonctionnement de l'appareil digestif du lapin n'est pas r
 
 1. la fraction renfermant surtout les grosses particules (taille > 0,3 mm) est acheminée préférentiellement vers le côlon et le rectum, où elle forme les crottes dures riches en glucides pariétaux. Elles sont fabriquées la nuit, entre 18 h et 7 h et non ingérées.
 
-Il règne à ce moment une activité intense dans le côlon : la paroi sécrète des enzymes capables de dégrader une partie importante des corps microbiens et peut absorber certains produits de cette bactériolyse, vitamines et acides aminés notamment. L'absorption d'eau est importante. La figure 3.2 résume ces principales étapes de la digestion chez le lapin.
+Il règne à ce moment une activité intense dans le côlon : la paroi sécrète des enzymes capables de dégrader une partie importante des corps microbiens et peut absorber certains produits de cette bactériolyse, vitamines et acides aminés notamment. L'absorption d'eau est importante. La **figure 3.2** résume ces principales étapes de la digestion chez le lapin.
 
 <img src = "figures/fig32.jpg" alt = "figures/fig32" width = "600" height = "500"/>
 
-Figure 3.2 : [Principales étapes de la digestion chez le lapin.](https://www.cuniculture.info/Docs/Biologie/fig-biol/fig17g.gif)
+[**Figure 3.2**](https://www.cuniculture.info/Docs/Biologie/fig-biol/fig17g.gif) Principales étapes de la digestion chez le lapin.
 
 ####	Influence de la cœcotrophie sur le transit digestif
 
 Une fois ingérés, les cœcotrophes sont retrouvés en grand nombre dans l'estomac, où ils peuvent représenter jusqu'aux ¾ du contenu. À partir de ce moment, ils suivent un transit digestif semblable à celui d'un aliment.
 
-Compte tenu des fractions recyclées 1, 2 voire 3 ou 4 fois dans le cæcum et selon la nature des aliments, le transit digestif est d'environ 17 à 18 heures. Ce temps est plus court pour les grosses particules (14-16 heures) que pour les petites (20-24 heures), par suite du phénomène de tri des particules à la sortie du cæcum.
+Compte tenu des fractions recyclées 1, 2 voire 3 ou 4 fois dans le cæcum et selon la nature des aliments, le transit digestif est d'environ 17 à 18 heures. Ce temps est plus court pour les grosses particules (14 - 16 heures) que pour les petites (20 - 24 heures), par suite du phénomène de tri des particules à la sortie du cæcum.
 
-En allongeant le temps de séjour des particules fines dans le cæcum, la cœcotrophie, liée au tri des particules, contribue à prolonger de 30% environ le transit digestif et améliore donc l'utilisation digestive des aliments.
+En allongeant le temps de séjour des particules fines dans le cæcum, la cœcotrophie, liée au tri des particules, contribue à prolonger de 30 % environ le transit digestif et améliore donc l'utilisation digestive des aliments.
 
-Elle est peu efficace pour améliorer la digestibilité des glucides pariétaux, puisque le recyclage des particules grossières est limité et que, contrairement aux ruminants, le transit digestif est d'autant plus rapide que les aliments sont plus riches en constituants pariétaux. Ainsi, la digestibilité de la cellulose brute n'est que de 20 à 40%.
+Elle est peu efficace pour améliorer la digestibilité des glucides pariétaux, puisque le recyclage des particules grossières est limité et que, contrairement aux ruminants, le transit digestif est d'autant plus rapide que les aliments sont plus riches en constituants pariétaux. Ainsi, la digestibilité de la cellulose brute n'est que de 20 à 40 %.
 
 Lorsque les particules alimentaires sont trop fines et/ou trop digestibles, le reflux vers le cæcum fonctionne au maximum et le transit digestif est très ralenti. L’équilibre de la microflore cœcale se modifie, ce qui peut entraîner des troubles digestifs graves : diarrhées, entérotoxémies. 
 
@@ -189,9 +189,9 @@ Le bon fonctionnement du tube digestif suppose donc un apport minimal et réguli
 
 ####	Composition des crottes et intérêt nutritionnel de la cœcotrophie
 
-Du fait de la spécificité des actions digestives aboutissant à leur formation, la composition des crottes molles est différente de celle des crottes dures : les cœcotrophes sont plus riches en eau et en matières azotées totales, plus pauvres en cellulose brute que les crottes dures (Tableau 3.3).
+Du fait de la spécificité des actions digestives aboutissant à leur formation, la composition des crottes molles est différente de celle des crottes dures : les cœcotrophes sont plus riches en eau et en matières azotées totales, plus pauvres en cellulose brute que les crottes dures (**Tableau 3.3**).
 
-Tableau 3.3 Composition analytique des deux types de crottes du lapin (Gadoud et al., 1992)
+**Tableau 3.3** Composition analytique des deux types de crottes du lapin (Gadoud et al., 1992).
 
 | | Coecotrophes | Crottes dures |
 | :----- | :-----: | :-----: |
@@ -230,9 +230,9 @@ La cavité buccale ne comprend ni lèvres ni dents, mais seulement un bec corné
 
 Les glandes salivaires, peu développées, sécrètent de la ptyaline. Il n'y a ni voile du palais ni épiglotte, si bien que la déglutition est un phénomène uniquement mécanique par redressement de la tête.
 
-L'œsophage contient un renflement dont l'épithélium est riche en glandes à mucus : le jabot (Figure 3.2). Cet organe peut stocker des aliments, les humecter et les ramollir. Il fonctionne chez le poulet alimenté à volonté.
+L'œsophage contient un renflement dont l'épithélium est riche en glandes à mucus : le jabot (**Figure 3.3**). Cet organe peut stocker des aliments, les humecter et les ramollir. Il fonctionne chez le poulet alimenté à volonté.
 
-![Figure 3.3 [L’appareil digestif du poulet.](http://img.xooimage.com/files24/e/c/d/digestifqp8-17ea67b.jpg)](figures/fig33.jpg)
+![[**Figure 3.3**](http://img.xooimage.com/files24/e/c/d/digestifqp8-17ea67b.jpg) L’appareil digestif du poulet.](figures/fig33.jpg) 
 
 L'estomac comprend deux parties :
 
@@ -247,41 +247,41 @@ La longueur totale du tube digestif est d'environ 2 mètres chez le poulet adult
 
 ####	La digestion chez le poulet
 
-Les enzymes digestives des volailles sont similaires à celles des mammifères sauf la lactase qui est absente. Le transit des aliments est relativement rapide, il dure en moyenne 24 heures (Figure 3.4).
+Les enzymes digestives des volailles sont similaires à celles des mammifères sauf la lactase qui est absente. Le transit des aliments est relativement rapide, il dure en moyenne 24 heures (**Figure 3.4**).
 
-![Figure 3.4 : Principales étapes de la digestion chez le poulet (Gadoud et al., 1992).](figures/fig34.png)
+![**Figure 3.4** Principales étapes de la digestion chez le poulet. Adapté de Gadoud et al. (1992).](figures/fig34.png)
 
 Dans **la bouche**, 
 
-> les aliments sont peu fragmentés et grossièrement insalivés. L'action de la 	ptyaline sur l’amidon y débute et se poursuit dans le jabot.
+>> les aliments sont peu fragmentés et grossièrement insalivés. L'action de la 	ptyaline sur l’amidon y débute et se poursuit dans le jabot.
 
 Le **jabot**
 
-> assure le stockage et le ramollissement des aliments grâce au mucus qui y est sécrété.	Il participe au transit alimentaire en jouant le rôle de pompe qui aspire et refoule.
+>> assure le stockage et le ramollissement des aliments grâce au mucus qui y est sécrété.	Il participe au transit alimentaire en jouant le rôle de pompe qui aspire et refoule.
 
 Le **ventricule succenturié ou proventricule**
 
-> sécrète en abondance l'acide chlorhydrique mais le pH qui y règne n'est pas très bas (3 à 4,5), si bien que la transformation du pepsinogène en pepsine n'est pas complète et la protéolyse ne fait qu'y débuter.
+>> sécrète en abondance l'acide chlorhydrique mais le pH qui y règne n'est pas très bas (3 à 4,5), si bien que la transformation du pepsinogène en pepsine n'est pas complète et la protéolyse ne fait qu'y débuter.
 
 C’est dans **le gésier**
 
-> avec son pH bas (2 à 3,5), que se produit véritablement la protéolyse sous l'action de la pepsine. De plus, la présence de petits cailloux dans cette poche permet	à l'oiseau de broyer les graines. Si l'alimentation est à base de grains intacts, il importe de mettre des petits cailloux à disposition des animaux. Si les volailles sont nourries	avec des farines, l'activité mécanique du gésier est très réduite.
+>> avec son pH bas (2 à 3,5), que se produit véritablement la protéolyse sous l'action de la pepsine. De plus, la présence de petits cailloux dans cette poche permet	à l'oiseau de broyer les graines. Si l'alimentation est à base de grains intacts, il importe de mettre des petits cailloux à disposition des animaux. Si les volailles sont nourries	avec des farines, l'activité mécanique du gésier est très réduite.
 
 L'**intestin grêle** 
 
-> est le lieu préférentiel de la digestion chimique sous l'action des enzymes 	intestinales, pancréatiques et de la bile.
+>> est le lieu préférentiel de la digestion chimique sous l'action des enzymes 	intestinales, pancréatiques et de la bile.
 
 Le **cæcum** 
 
-> est le siège de fermentations bactériennes, sans doute d'importance secondaire, qui permettent une utilisation partielle des glucides pariétaux des enveloppes des 	grains. Il s'y produit aussi une synthèse de vitamines B qui pourraient profiter à 	l'oiseau. Comme chez les autres espèces, il y a, à ce niveau, une absorption  importante	d'eau et de sels minéraux.
+>> est le siège de fermentations bactériennes, sans doute d'importance secondaire, qui permettent une utilisation partielle des glucides pariétaux des enveloppes des 	grains. Il s'y produit aussi une synthèse de vitamines B qui pourraient profiter à 	l'oiseau. Comme chez les autres espèces, il y a, à ce niveau, une absorption  importante	d'eau et de sels minéraux.
 
 ##	Anatomie et physiologie digestive chez les ruminants
 
 ###	Anatomie du tube digestif chez le ruminant
 
-Le tube digestif des bovins est composé de la bouche, de la langue, des dents, du pharynx digestif, de l’œsophage, des estomacs, des intestins, du rectum et de l’anus. Les estomacs se composent du réseau, du rumen, du feuillet et de la caillette (figure 6). Le rumen, le réseau et, à un moindre degré, le feuillet, hébergent une population microbienne importante. Cette configuration particulière permet au ruminant d’effectuer une prédigestion microbienne des aliments, avec une utilisation particulièrement poussée des fibres présentes dans la ration (Gadoud et al., 1992 ; Cuvellier et al., 2012).
+Le tube digestif des bovins est composé de la bouche, de la langue, des dents, du pharynx digestif, de l’œsophage, des estomacs, des intestins, du rectum et de l’anus. Les estomacs se composent du réseau, du rumen, du feuillet et de la caillette (**Figure 3.5**). Le rumen, le réseau et, à un moindre degré, le feuillet, hébergent une population microbienne importante. Cette configuration particulière permet au ruminant d’effectuer une prédigestion microbienne des aliments, avec une utilisation particulièrement poussée des fibres présentes dans la ration (Gadoud et al., 1992 ; Cuvellier et al., 2012).
 
-![Figure 3.5 [Schéma simplifié du tube digestif de bovin adulte.](http://www.permaculteurs.com/wp-content/uploads/2015/06/permaculteurs_2015-06-03_11-44-37.gif)](figures/fig35.png)
+![[**Figure 3.5**](http://www.permaculteurs.com/wp-content/uploads/2015/06/permaculteurs_2015-06-03_11-44-37.gif) Schéma simplifié du tube digestif de bovin adulte.](figures/fig35.png)
 
 ####	La bouche et l’œsophage
 
@@ -295,17 +295,17 @@ L’estomac est volumineux, au point d’occuper les 4/5 de la cavité abdominal
 
 > **Réseau et rumen :**
 
-Le **réseau et le rumen**, visibles sur la Figure 3.6, sont souvent considérés ensemble car leur contenu se mélange fréquemment.
+Le **réseau et le rumen**, visibles sur la **Figure 3.6**, sont souvent considérés ensemble car leur contenu se mélange fréquemment.
 
-![Figure 3.6 Aperçu du réseau et du rumen (Cuvellier et al., 2012).](figures/fig36.png)
+![**Figure 3.6** Aperçu du réseau et du rumen (Cuvellier et al., 2012).](figures/fig36.png)
 
-Le **rumen (ou la panse)** a une capacité d’environ 150 litres et représente 80% du volume total des estomacs. Sa paroi (muqueuse) interne, non sécretrice, est constituée de papilles (Figure 3.7) qui augmentent la surface de contact avec la masse alimentaire et qui permettent l’absorption de certains nutriments. 
+Le **rumen (ou la panse)** a une capacité d’environ 150 litres et représente 80% du volume total des estomacs. Sa paroi (muqueuse) interne, non sécretrice, est constituée de papilles (**Figure 3.7**) qui augmentent la surface de contact avec la masse alimentaire et qui permettent l’absorption de certains nutriments. 
 
-![Figure 3.7 [Schéma du tube digestif du bovin adulte présentant les structures internes des estomacs.](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXpmZkn-mdepcH1TvThYFSOzGhh6JDUoU6DQ&usqp=CAU)](figures/fig37.png)
+![[**Figure 3.7**](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXpmZkn-mdepcH1TvThYFSOzGhh6JDUoU6DQ&usqp=CAU) Schéma du tube digestif du bovin adulte présentant les structures internes des estomacs.](figures/fig37.png)
 
 Le **rumen** est situé sur le côté gauche de l’animal et s’étend du diaphragme au bassin. Une musculeuse importante comportant des piliers charnus divise le rumen en deux sacs. Il communique de façon large avec le réseau.
 
-Le **réseau** (reticulum ou encore bonnet) est un petit réservoir situé entre le rumen et le diaphragme (Figure 3.6). Sa muqueuse, non sécrétrice, présente des alvéoles. Sa paroi présente une apparence réticulaire en **nids d’abeilles** tout à fait caractéristique (Figure 3.7). Sur la paroi droite et dorsale du réseau, cette structure fait place à un sillon relativement large et profond, appelé **gouttière œsophagienne**, qui s’étend du cardia jusqu’à l’orifice de communication entre le réseau et le feuillet appelé orifice réticulo-omasal. La gouttière œsophagienne ne se ferme que chez le veau recevant une alimentation lactée ou chez l'adulte lorsqu'il a très soif. L’orifice reticulo-omasal, étroit et contractile, joue un rôle capital dans le tri des particules sortant du rumen-réseau. 
+Le **réseau** (reticulum ou encore bonnet) est un petit réservoir situé entre le rumen et le diaphragme (**Figure 3.6**). Sa muqueuse, non sécrétrice, présente des alvéoles. Sa paroi présente une apparence réticulaire en **nids d’abeilles** tout à fait caractéristique (**Figure 3.7**). Sur la paroi droite et dorsale du réseau, cette structure fait place à un sillon relativement large et profond, appelé **gouttière œsophagienne**, qui s’étend du cardia jusqu’à l’orifice de communication entre le réseau et le feuillet appelé orifice réticulo-omasal. La gouttière œsophagienne ne se ferme que chez le veau recevant une alimentation lactée ou chez l'adulte lorsqu'il a très soif. L’orifice reticulo-omasal, étroit et contractile, joue un rôle capital dans le tri des particules sortant du rumen-réseau. 
 
 Le rumen-réseau assure l’essentiel de la prédigestion des aliments avant qu’ils n’atteingnent la caillette. La masse alimentaire y subit en effet :
 
@@ -313,9 +313,11 @@ Le rumen-réseau assure l’essentiel de la prédigestion des aliments avant qu�
 -	les fermentations microbiennes, 
 -	et enfin, un broyage poussé via la rumination. 
 
-La **rumination** (mastication mérycique ou encore le mérycisme) consiste en la régurgitation du bol alimentaire vers la bouche (flèche A) et sa re-mastication et re-imprégnation de salive (Figure 3.8). Elle permet une réduction de la taille des particules et une bonne imprégnation du bol alimentaire avec la salive, ce qui a pour effet d’augmenter la densité des particules. Elle permet, en d’autres mots, la vidange du rumen-réseau par la réduction en petites particules des végétaux les plus résistants à la mastication.
+La **rumination** (mastication mérycique ou encore le mérycisme) consiste en la régurgitation du bol alimentaire vers la bouche (flèche A) et sa re-mastication et re-imprégnation de salive (**Figure 3.8**). Elle permet une réduction de la taille des particules et une bonne imprégnation du bol alimentaire avec la salive, ce qui a pour effet d’augmenter la densité des particules. Elle permet, en d’autres mots, la vidange du rumen-réseau par la réduction en petites particules des végétaux les plus résistants à la mastication.
 
-![Figure 3.8 Mouvements du bol alimentaire dans le rumen-réseau (Cuvellier et al., 2012).](figures/fig38.png)
+<img src = "figures/fig38.png" alt = "figures/fig38" width = "500" height = "300"/>
+
+**Figure 3.8** Mouvements du bol alimentaire dans le rumen-réseau (Cuvellier et al., 2012).
 
 Le réseau peut être considéré comme un véritable carrefour qui régule la circulation des particules alimentaires entre l’œsophage, le rumen et le feuillet. Ainsi, les particules suffisamment petites, de l’ordre de quelques millimètres, passent à travers l’orifice réticulo- omasal pour atteindre le feuillet, tandis que les particules de grande taille sont refoulées vers le réseau et le rumen, ce qui a pour effet de stimuler la rumination et la production de salive. Notons que l’orifice réticulo-omasal se trouvant en position basse, seules les particules ayant acquis une densité suffisante pour couler, et non plus flotter dans le rumen, passent à travers celui-ci.
 
@@ -412,15 +414,15 @@ L’acide lactique est quant à lui un produit intermédiaire de cette chaîne d
 
 La nature de la ration alimentaire, le pH intra-ruminal et le niveau d’ingestion de l’animal peuvent influencer la production des AGV (_section pas développée_).
 
-La vitesse et l’ampleur de la digestion des glucides dans le rumen varient selon la nature de ceux-ci et selon l’origine botanique. Les sucres solubles et l’amidon sont rapidement fermentés. Exemples : l’amidon de l’avoine, de l’orge et du blé : amidon à dégradation rapide ou amidon rapide. Le maïs, le sorgho et la pomme de terre ont un amidon lent. L’amidon de l’orge est dégradé dans le rumen à raison de 90 à 95 %, alors que celui du maïs est dégradé selon des proportions nettement moindres (50 à 90 %). Les glucides pariétaux (cellulose et hémicellulose) sont quant à eux dégradés lentement et partiellement (de l’ordre de 30 à 50 %) (Figure 3.9). 
+La vitesse et l’ampleur de la digestion des glucides dans le rumen varient selon la nature de ceux-ci et selon l’origine botanique. Les sucres solubles et l’amidon sont rapidement fermentés. Exemples : l’amidon de l’avoine, de l’orge et du blé : amidon à dégradation rapide ou amidon rapide. Le maïs, le sorgho et la pomme de terre ont un amidon lent. L’amidon de l’orge est dégradé dans le rumen à raison de 90 à 95 %, alors que celui du maïs est dégradé selon des proportions nettement moindres (50 à 90 %). Les glucides pariétaux (cellulose et hémicellulose) sont quant à eux dégradés lentement et partiellement (de l’ordre de 30 à 50 %) (**Figure 3.9**). 
 
-![Figure 3.9 Schéma de la digestion des glucides dans le rumen (Cuvellier et al., 2012).](figures/fig39.png)
+![**Figure 3.9** Schéma de la digestion des glucides dans le rumen (Cuvellier et al., 2012).](figures/fig39.png)
 
 La **lignine** n’est pas dégradée par le ruminant.
 
-Une fraction de l’amidon non digéré dans le rumen subit une digestion enzymatique dans l’intestin grêle qui entraîne la formation de glucose, absorbé à travers la paroi. L’amidon non digéré dans l’intestin grêle est en partie dégradé par les microorganismes du gros intestin. Les glucides pariétaux qui ont échappé aux fermentations microbiennes peuvent quant à eux subir une seconde fermentation dans le colon. La Figure 3.10 tirée de Cuvellier et al. (2012) schématise la digestion des glucides chez le ruminant.
+Une fraction de l’amidon non digéré dans le rumen subit une digestion enzymatique dans l’intestin grêle qui entraîne la formation de glucose, absorbé à travers la paroi. L’amidon non digéré dans l’intestin grêle est en partie dégradé par les microorganismes du gros intestin. Les glucides pariétaux qui ont échappé aux fermentations microbiennes peuvent quant à eux subir une seconde fermentation dans le colon. La **Figure 3.10** tirée de Cuvellier et al. (2012) schématise la digestion des glucides chez le ruminant.
 
-![Figure 3.10 Schéma de la digestion des glucides chez le ruminant (Cuvellier et al., 2012).](figures/fig310.png)
+![**Figure 3.10** Schéma de la digestion des glucides chez le ruminant (Cuvellier et al., 2012).](figures/fig310.png)
 
 ####	La dégradation des matières azotées
 
@@ -430,11 +432,11 @@ Cette dégradation microbienne est rapide et totale pour les constituants non pr
 
 En présence d'énergie (issue de la dégradation des glucides) et de chaînes carbonées, l'ammoniac peut ensuite être utilisé pour la synthèse des protéines des bactéries : c'est la phase de protéosynthèse microbienne. La quantité de matières azotées microbiennes formées dépend de deux facteurs limitants principaux : la quantité d'ammoniac et la quantité d'énergie présentes dans le rumen-réseau.
 
-Pour que la totalité des matières azotées fermentescibles soit utilisée, il est nécessaire qu’il y ait suffisamment d’énergie. Dans le cas contraire, les matières azotées excédentaires seront éliminées sous forme de NH3 potentiellement toxique. Le NH3 en excédent est en effet absorbé par la paroi du rumen et transporté jusqu’au foie où il est transformé en urée (Figure 3.11). Cette urée est principalement excrétée par les reins et éliminée par les urines et le lait chez la vache laitière. Elle peut cependant également retourner au rumen à travers la salive.
+Pour que la totalité des matières azotées fermentescibles soit utilisée, il est nécessaire qu’il y ait suffisamment d’énergie. Dans le cas contraire, les matières azotées excédentaires seront éliminées sous forme de NH3 potentiellement toxique. Le NH3 en excédent est en effet absorbé par la paroi du rumen et transporté jusqu’au foie où il est transformé en urée (**Figure 3.11**). Cette urée est principalement excrétée par les reins et éliminée par les urines et le lait chez la vache laitière. Elle peut cependant également retourner au rumen à travers la salive.
 
-![Figure 3.11 Schéma de la digestion des matières azotées chez le ruminant.](figures/fig311.png)
+![**Figure 3.11** Schéma de la digestion des matières azotées chez le ruminant.](figures/fig311.png)
 
-**Que deviennent les protéines microbiennes ?**Une partie de la population microbienne (et donc de leurs protéines) est dégradée au sein du rumen. Une autre partie reste libre dans le liquide du rumen. Une dernière partie est accrochée aux particules alimentaires. Une partie des bactéries libres et fixées aux particules alimentaires quitte le rumen et passe dans la caillette, où elle subit alors la digestion enzymatique (Figure 3.11).
+**Que deviennent les protéines microbiennes ?** Une partie de la population microbienne (et donc de leurs protéines) est dégradée au sein du rumen. Une autre partie reste libre dans le liquide du rumen. Une dernière partie est accrochée aux particules alimentaires. Une partie des bactéries libres et fixées aux particules alimentaires quitte le rumen et passe dans la caillette, où elle subit alors la digestion enzymatique (**Figure 3.11**).
 
 Une partie des protéines de la ration résiste à la dégradation ruminale et passe dans la caillette, où elle est alors dégradée par voie enzymatique (protéines by-pass).
 
@@ -444,20 +446,225 @@ Au niveau de la caillette et de l’intestin grêle, toutes les protéines, qu�
 
 ####	La dégradation des lipides
 
-Les lipides sont présents en faible quantité (2 à 6% de la MS) dans la plupart des aliments des ruminants comparés aux teneurs en glucides et en matières azotées. _Les lipides arrivant dans le rumen sont constitués à 50% environ de triglycérides, et de l’autre moitié, d’acides gras libres. Les lipides des fourrages, des grains et des graines sont caractérisés par leur richesse en acides gras longs ( > Cl8) insaturés_.
+Les lipides sont présents en faible quantité (2 à 6% de la MS) dans la plupart des aliments des ruminants comparés aux teneurs en glucides et en matières azotées. **Les lipides arrivant dans le rumen sont constitués à 50% environ de triglycérides, et de l’autre moitié, d’acides gras libres. Les lipides des fourrages, des grains et des graines sont caractérisés par leur richesse en acides gras longs ( > Cl8) insaturés**.
 
-Le rumen est le siège d’une lipolyse intense et rapide :
+**Le rumen est le siège d’une lipolyse intense et rapide :**
 
--	les lipides de l’aliment sont hydrolysés par les microorganismes du rumen, ce qui permet la production de glycérol et d’acides gras libres 
--	le glycérol formé est rapidement fermenté en AGV, alors que les acides gras insaturés sont fortement remaniés par les microorganismes du rumen (NB : le degré de saturation des acides gras alimentaires n'est pas modifié par la digestion chez le porc) ;
+-	les lipides de l’aliment sont hydrolysés par les microorganismes du rumen, ce qui permet la production de glycérol et d’acides gras libres ;
+
+-	le glycérol formé est rapidement fermenté en AGV, alors que les acides gras insaturés sont fortement remaniés par les microorganismes du rumen (**NB : le degré de saturation des acides gras alimentaires n'est pas modifié par la digestion chez le porc**) ;
+
 -	les acides gras libres, fixés aux particules alimentaires, quittent le rumen, passent dans la caillette, puis dans l’intestin grêle, où ils sont digérés et absorbés.
 
 A côté de leur activité de dégradation des lipides alimentaires, les microorganismes
 du rumen synthétisent des lipides microbiens, caractérisés notamment par la présence
-d’acides gras ramifiés. Lorsque ces microorganismes quittent le rumen et passent dans la caillette, ils sont tués et désintégrés par le suc gastrique. Ceci permet la  libération des lipides microbiens, les acides gras libres microbiens rejoignant le  pool d’acides gras libres pour subir la digestion et l’absorption intestinales (Figure 3.12).
+d’acides gras ramifiés. Lorsque ces microorganismes quittent le rumen et passent dans la caillette, ils sont tués et désintégrés par le suc gastrique. Ceci permet la  libération des lipides microbiens, les acides gras libres microbiens rejoignant le  pool d’acides gras libres pour subir la digestion et l’absorption intestinales (**Figure 3.12**).
 
-![Figure 3.12 Schéma de la digestion des lipides chez le ruminant.](figures/fig312.png)
+![**Figure 3.12** Schéma de la digestion des lipides chez le ruminant.](figures/fig312.png)
 
+####	Bilan de la digestion chez le ruminant
 
+Chez le ruminant, la digestion est caractérisée par :
 
+-	les phénomènes de motricité du rumen-réseau, conduisant en particulier à la rumination ou mérycisme ;
 
+-	la prédominance des phénomènes fermentaires dans le rumen-réseau par rapport aux phénomènes enzymatiques propres du ruminant dans la caillette et l'intestin grêle. 
+La population microbienne du rumen-réseau dégrade ou remanie la majeure partie de tous les constituants organiques de la ration. Cela se traduit par l'utilisation plus ou moins poussée des glucides pariétaux et la fermentation des sucres simples et de l'amidon, une réorganisation des matières azotées et une synthèse de vitamines B.
+
+Il sort du rumen-réseau :
+
+-	la majeure partie des corps bactériens ;
+-	une partie plus faible des protozoaires ;
+-	35 à 40 % de la matière organique digestible de la ration, surtout constituée de protéines alimentaires et de glucides pariétaux ayant échappé à la dégradation microbienne (**Figure 3.13**).
+
+![**Figure 3.13** Schéma de la dégradation des constituants organiques des aliments dans le rumen réseau](figures/fig313.png)
+
+Après le rumen-réseau, la digestion dans l'estomac fonctionnel (la caillette) et dans les intestins est pratiquement semblable à celle qui a lieu chez le porc. On peut cependant noter les particularités suivantes :
+
+-	dans le feuillet dépourvu de sécrétions digestives a lieu une importante absorption d'eau et de sels minéraux, surtout le sodium et le potassium ;
+
+-	la nature des substrats arrivant dans la caillette et l'intestin est particulière. _Les glucides ne sont pratiquement plus représentés que par des glucides pariétaux et éventuellement un peu d'amidon ; les matières azotées sont de deux types : alimentaires et microbiennes_. Ce qui confère aux ruminants une relative indépendance vis-à-vis des sources azotées de la ration ; il en est de même pour les vitamines B synthétisées par les microbes.
+
+##	La digestion des minéraux
+
+Les macro-éléments et les oligo-éléments se trouvent sous des formes chimiques variées dans les aliments. Leur absorption au niveau du tube digestif est conditionnée par :
+
+-	la forme sous laquelle ils se trouvent : par exemple, l’absorption du calcium est limitée lorsqu’il est présent dans l’aliment sous forme d’oxalates de calcium ;
+
+-	les interactions entre certains minéraux : par exemple, au niveau de l’intestin grêle, l’absorption du Ca est corrélée positivement à la concentration en phosphore minéral, mais négativement à celle en magnésium ;
+
+-	le statut physiologique de l’animal en cet élément : par exemple, l’absorption intestinale du Ca est augmentée lorsque les concentrations en calcium dans le sang sont faibles, et ce, grâce à la sécrétion de vitamine D active.
+
+##	Les voies de l’absorption
+
+L'**absorption** est le passage de matériaux de la lumière intestinale vers le milieu intérieur via les cellules absorbantes. Certains produits de la digestion peuvent être utilisés par la paroi digestive (*glucose, certains acides aminés*) ou être remaniés par celle-ci (AGV), cependant la majorité d'entre eux traversent la paroi et peuvent ensuite emprunter deux voies :
+
+-	*l'eau, les sels minéraux, les oses, les acides  aminés, les  acides  gras courts, les vitamines hydrosolubles* passent directement dans le sang et arrivent au foie via la veine porte hépatique ;
+
+-	*les lipides, essentiellement des triglycérides  reconstitués dans la cellule absorbante à partir des acides gras à longue chaîne, et les vitamines liposolubles* gagnent les capillaires lymphatiques, leur donnant un  aspect laiteux caractéristique pendant la digestion, et rejoignent finalement le système sanguin.
+
+Ainsi, toutes les substances absorbées se retrouvent en définitive dans le sang, soit directement, soit par la lymphe (**Figure 3.14**).
+
+![**Figure 3.14** Les deux voies de transport des nutriments](figures/fig314.png)
+
+L'absorption des vitamines est liée à leur solubilité : 
+
+- les vitamines hydrosolubles, notamment celles du groupe B, sont absorbées en même temps que la solution d'électrolytes ; 
+
+- les vitamines liposolubles (A, D, E, K) sont absorbées en même temps que les lipides.
+
+L'eau contenant les sels minéraux est absorbée surtout dans les intestins chez les non-ruminants, dans le feuillet et les intestins chez les ruminants.
+
+**Les produits de l'absorption, ou les nutriments, sont déversés dans le sang ou la lymphe et rejoignent en définitive la circulation sanguine**. Le **Tableau 3.3** présente de façon simplifiée les résultats de l'absorption chez le porc, le cheval et les ruminants.
+
+**Tableau 3.3** Résultats de l'absorption chez le porc et les ruminants.
+
+![](figures/tab33.png)
+
+## L’utilisation digestive des aliments
+
+Les aliments ingérés ne sont pas absorbés en totalité, une partie des **ingesta** (**I**) traverse le tube digestif et se retrouve dans les **fèces** (**F**).
+
+L'**utilisation digestive** des aliments est caractérisée par leur **digestibilité**.
+La digestibilité apparente (**da**) est la proportion  $\frac{(I-F)}{I}$ d'aliment qui disparaît apparemment dans le tube digestif :
+
+$$da=\frac{(I-F)}{I}=\frac{(qté~ingérée~-~qté~excrétée~dans~les~fèces)}{qté~ingérée}$$
+
+Mais en fait, il existe dans les féces, des produits qui ne proviennent pas des ingesta. Ce sont des substances endogènes (sécrétions digestives, mucus, produits de desquamation de la paroi du tube digestif) ou d'origine microbienne, dont il est très difficile d'évaluer l'importance. Ces produits sont appelés « **fèces endogènes** (**Fe**) » (**Figure 3.15**).
+
+![**Figure 3.15** Schéma de l’utilisation digestive des aliments](figures/fig315.png)
+
+On définit alors la **digestibilité réelle** (**dr**) comme la proportion d'aliment qui disparaît réellement dans le tube digestif; **dr** est donc plus élevée que **da** :
+
+$$dr=\frac{(I-(F-Fe))}{I}=\frac{(qté~ingérée-(qté~excrétée~dans~les~féces-qté~endogène))}{qté~ingérée}$$
+
+La digestibilité s'exprime par un rapport inférieur à **1**. Elle peut s'appliquer à différents composants de la ration ou de l'aliment : 
+
+- matière sèche (**dMS**), 
+- matière organique (**dMO**), 
+- divers constituants organiques, 
+- énergie (**dE**).
+
+Lorsqu'on emploie le terme général de digestibilité d'un aliment, on désigne la digestibilité apparente de la matière organique de cet aliment (dMO).
+
+Le **coefficient d'utilisation digestive** (**CUD**), ou **coefficient de digestibilité** est le produit de la digestibilité par 100, exprimé en % : CUDa(%) = da*100.
+
+Par exemple, écrire qu'un aliment a une digestibilité de 0,80 équivaut à écrire qu'il a un CUD de 80 %, soit $\frac{80}{100}$ = 0,80.
+
+La digestibilité constitue le principal facteur de variation de la valeur énergétique des aliments.
+
+La digestibilité apparente varie selon la nature de l’aliment, sa composition chimique et la présence éventuelle de **facteurs antinutritionnels**. Sa détermination peut être effectuée par différentes méthodes :
+
+- des méthodes sur l’animal (**in vivo** par récolte des matières fécales, ou par sachet de nylon incubé dans le rumen et l’intestin grêle),
+- ou en laboratoire (**in vitro**).
+
+La digestibilité des aliments d'origine animale est généralement élevée et moins variable que celle des aliments végétaux pour lesquels il faut distinguer, au plan de l'utilisation digestive, les constituants intracellulaires des constituants des parois (ou constituants pariétaux).
+
+###	Digestibilité des constituants intracellulaires
+
+Il s'agit des glucides cytoplasmiques hydrosolubles (sucres), des glucides cytoplasmiques de réserve (l’amidon), des lipides et des protides intracellulaires. Leur digestibilité est élevée chez toutes les espèces animales. Le contenu cellulaire renferme aussi l'essentiel des minéraux et des vitamines.
+
+Pour les aliments concentrés, consommés à la fois par les herbivores et les non-herbivores, la digestibilité des constituants intracellulaires est de 70 à 100 %, elle est proche de 100 % chez tous les animaux pour les sucres et l'amidon.
+
+Pour les fourrages consommés par les herbivores, ruminants et chevaux, la digestibilité de tous les constituants du contenu cellulaire est élevée. Elle est totale (100 %) pour les glucides hydrosolubles et le plus souvent pour l'amidon, et elle peut atteindre 95 % pour les matières azotées et les lipides des fourrages.
+
+###	Digestibilité des constituants pariétaux
+
+Ce sont les constituants des parois végétales composés des glucides pariétaux (*cellulose, hémicelluloses, pectines*) plus ou moins incrustés de lignine.
+
+La digestibilité des constituants non lignifiés dépend largement de l'espèce utilisatrice pour toutes les catégories d'aliments végétaux, y compris les concentrés dont certains sont relativement riches en parois. **Ces parois sont pratiquement indigestibles chez les volailles, et ont une digestibilité de 10 à 30 % chez le lapin, de 30 à 50 % chez le porc, de 80 à 90 % chez les ruminants, plus faible de 5 à 10 points chez les chevaux**.
+
+Les différences sont liées essentiellement à la présence de microorganismes, surtout les bactéries cellulolytiques du rumen et du gros intestin, et aussi à la durée du séjour des particules alimentaires dans ces réservoirs.
+
+La lignine est indigestible dans toutes les espèces. De plus, elle rend la cellulose, et encore plus les hémicelluloses, inaccessibles ou résistantes aux bactéries cellulolytiques. **La lignine constitue donc une barrière à la digestion des parois chez toutes les espèces, y compris chez les herbivores**.
+
+###	Conséquences sur la digestibilité de la matière organique
+
+Les données sur la digestibilité des différents constituants cellulaires conduisent à une loi générale dans toutes les espèces : 
+
+>> la digestibilité de la matière organique des aliments diminue quand la teneur en parois augmente. Plus précisément, la digestibilité de la matière organique dépend de celle des parois. Elle est fonction de l'espèce utilisatrice qui digère plus ou moins complètement les parois non lignifiées.
+
+Ce principe général est illustré sur les **Figures 3.16 et 3.17** où la teneur en parois est estimée en fonction de la teneur en cellulose brute.
+
+![[**Figure 3.16**](http://www.assoadada.fr/wp-content/uploads/2014/02/conseil_20-2.gif) Digestibilité de la matière organique (dMO) de différentes matières en fonction de la teneur en cellulose brute (CB).](figures/fig316.png)
+
+![**Figure 3.17** Digestibilité de la matière organique (dMO) chez différents types d'animaux en fonction de la teneur en cellulose brute (CB) de l'aliment.](figures/fig317.png)
+
+C'est grâce à la présence d'une population microbienne dense dans les pré-estomacs des ruminants et dans le gros intestin des équidés que les parois non lignifiées, et donc la matière organique des fourrages peuvent être utilisées efficacement.
+
+C'est alors la proportion de parois lignifiées qui limite la digestibilité des parois et donc celle de la matière organique. Prévoir la digestibilité des fourrages revient en définitive à prévoir leur teneur en parois indigestibles (ou indigestible pariétal).
+
+La teneur en parois, et surtout en parois lignifiées, est plus élevée dans les fourrages que dans les aliments concentrés, c'est pourquoi la digestibilité des concentrés est supérieure à celle des fourrages. Ce classement des aliments selon leur digestibilité est le même chez les ruminants et les chevaux en fonction de la teneur en parois (**Tableau 3.4**).
+
+**Tableau 3.4** Digestibilité de la MO de quelques aliments chez les ruminants et les chevaux.
+
+![](figures/tab34.png)
+
+La digestibilité des fourrages est très variable selon l'origine botanique, le stade végétatif et les conditions de récolte. L'absence de rumination et la plus faible durée de séjour des parois végétales dans le gros intestin du cheval (24 à 48 h) par rapport à celle observée dans le rumen (48 à 72 h) expliquent en grande partie que la digestion de ces parois, donc des fourrages, est moins poussée chez les chevaux que chez les ruminants. La richesse en grains, donc en amidon, de l'ensilage de maïs lui confère une dMO équivalente chez les ruminants et les chevaux.
+
+**EN RESUMÉ**
+
+La digestibilité apparente d'un aliment est la proportion de sa matière organique qui disparaît apparemment dans le tube digestif. La digestibilité constitue le principal facteur de variation de la valeur énergétique des aliments.
+
+Chez tous les animaux, la digestibilité des aliments végétaux diminue lorsque leur teneur en parois cellulaires augmente. La nature de ces parois intervient également, notamment pour les herbivores leur degré d'incrustation par la lignine totalement indigestible.
+
+La digestibilité d'un fourrage diminue au fur et à mesure que le rapport feuilles/tiges décroît et donc que la proportion de parois augmente. Pour un cycle de végétation, elle diminue quand la plante vieillit.
+
+La diminution de la digestibilité due au fanage est surtout fonction des conditions climatiques pendant la fenaison et de la famille botanique. L'ensilage et la déshydratation correctement réalisés ne diminuent pratiquement pas la digestibilité.
+À partir de mesures directes de la digestibilité et de méthodes permettant sa prévision, l'INRA a publié les Tables de la valeur nutritive des aliments pour les animaux monogastriques, les ruminants et les chevaux.
+
+##	L’utilisation métabolique des nutriments
+
+###	Métabolisme et catabolisme
+
+Les cellules de l'organisme ont besoin d'énergie et de matériaux pour se renouveler, se multiplier ou produire. Elles disposent pour cela des nutriments résultant de l'absorption et des métabolites issus de la mobilisation des réserves corporelles.
+Transportés aux cellules après leur absorption, les nutriments jouent différents rôles :
+-	rôle énergétique ou dynamique. La seule source d'énergie des animaux est constituée par la matière organique qu'ils consomment ;
+
+-	rôle plastique. Les nutriments servent au renouvellement ou à la constitution des tissus vivants, du lait, des œufs, ou des productions de la peau ;
+
+-	rôle physiologique ou fonctionnel. Les nutriments participent à la synthèse de différentes substances indispensables au fonctionnement de l'organisme (enzymes, hormones, anticorps, acides nucléiques).
+
+L'utilisation des nutriments et des métabolites se fait avec des transformations qui constituent le métabolisme. Ce dernier revêt deux aspects liés entre eux : l'**anabolisme** et le **catabolisme**.
+
+>>	L'anabolisme conduit à la synthèse de substances complexes par l'organisme (rôles plastique et physiologique des nutriments) et s'accompagne de dépenses énergétiques.
+
+>>	Le catabolisme se traduit par la destruction de certaines molécules avec libération d'énergie. Cette libération d'énergie se fait surtout par oxydation (on parle de catabolisme oxydatif). Il s'agirait plutôt de déshydrogénation des substrats et d'une suite de transports d'hydrogène et d'électrons. Ces réactions peuvent se dérouler en anaérobiose. Le catabolisme laisse des déchets qui sont principalement le gaz carbonique (CO2), l'eau, l'urée et l'acide urique.
+
+Une partie de l'énergie provenant du catabolisme est dépensée sous forme de chaleur, une autre partie est stockée et peut être utilisée dans les réactions de synthèse correspondant à l'anabolisme. 
+
+Ces deux types de réactions, anabolique et catabolique, sont donc étroitement liés. Par exemple, la synthèse d'un dipeptide à partir de deux acides aminés AA 
+
+>> réaction d'anabolisme protéique
+
+est associée à une réaction de catabolisme énergétique 
+
+>> dégradation d'une molécule d'ATP avec libération de l'énergie nécessaire à la réaction précédente
+
+tel que schématisé à la **Figure 3.18**.
+
+![**Figure 3.18** Schématisation de la liaison entre anabolisme et catabolisme.](figures/fig318.png)
+
+###	Utilisation des nutriments pour les productions
+
+Les nutriments provenant de l'absorption sont en partie utilisés par le tube digestif pour son propre fonctionnement. Le reste sert de matériau dans les synthèses de l'organisme et de substrat énergétique.
+
+Alors que, chez les **monogastriques**, le glucose est le principal nutriment énergétique, les AGV sont la source d'énergie essentielle chez les ruminants. 
+
+Quand les besoins énergétiques liés à l'anabolisme sont très élevés, certains acides aminés (AA) glucoformateurs et le glycérol, provenant de l'alimentation ou du catabolisme des réserves, servent à la néoglucogenèse.
+
+La mamelle synthétise la majeure partie des constituants du lait : 100 % du lactose, 90 % des protéines, les acides gras courts et moyens (AGCM) des matières grasses. Le sang apporte les autres constituants issus des synthèses hépatiques à partir des nutriments et des métabolites résultant de l'utilisation des réserves (acides gras AG longs essentiellement).
+
+Pour la **production de viande**, les protéines sont synthétisées dans le muscle et les os à partir de la réserve (pool) métabolique des acides aminés. Les **dépôts adipeux** nécessitent la fourniture aux adipocytes de glycérol et d'acides gras. Chez les monogastriques, ces matériaux proviennent en quasi-totalité du glucose. Chez les herbivores, notamment chez les ruminants, ils sont produits à partir des AGV.
+
+Chez les **ruminants**, l'utilisation des AGV est fondamentale :
+
+-	la production de viande est favorisée par une forte proportion de propionate (C3) dans le mélange d'AGV produit dans le rumen. Des rations riches en céréales orientent les fermentations ruminales vers la production d'un tel mélange ;
+
+-	chez les femelles en lactation, l'accumulation de réserves corporelles n'est pas recherchée. En effet, si le mélange (d’AGV dans le rumen) est trop pauvre en acétate (C2), il peut en résulter une limitation des synthèses d'acides gras courts et moyens dans la mamelle. Aussi, un manque de propionate (C3) diminue la synthèse mammaire de lactose et donc la production laitière. La ration doit, de ce fait, permettre l'obtention d'un mélange d'AGV équilibré en C2 et C3 pour ne pénaliser ni la production ni la richesse du lait en matières grasses.
+
+La production de la partie comestible d'un **œuf** consiste essentiellement en la synthèse de lipides et de protides :
+
+-	les lipides, tous contenus dans le jaune d’œuf, sont synthétisés dans le foie à partir principalement de nutriments et de métabolites non lipidiques ;
+
+-	les protides du jaune d’œuf sont élaborés dans le foie, ceux du blanc d’œuf, dans le magnum de l'oviducte. L'équilibre des acides aminés alimentaires influe plus que la teneur de la ration en MAT, sur la protéosynthèse, notamment au niveau du magnum.
