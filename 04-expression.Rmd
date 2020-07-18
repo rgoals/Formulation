@@ -1,7 +1,157 @@
 # Expression des besoins des animaux et des apports de la ration {#expression}
 
-Some _significant_ applications are demonstrated in this chapter.
+Les animaux se caractérisent par 5 catégories de besoins différents qui doivent être couverts par l’alimentation : 
 
-## Example one
+- les besoins en **énergie**, 
+- les besoins **matières azotées**, 
+- les besoins en **minéraux**, 
+- les besoins en **vitamines** et
+- le besoin en **eau**. 
 
-## Example two
+Les aliments doivent apporter à l'animal tous les constituants nécessaires au bon fonctionnement de l'organisme et à la réalisation des productions qui peuvent être :
+
+- du travail, 
+- de la croissance (croît), 
+- de la viande, 
+- un ou des fœtus, 
+- du lait, 
+- des œufs, etc.
+
+L'ajustement des apports alimentaires peut être quotidien mais certaines rations peuvent aussi couvrir les besoins d’une période bien plus longue comme il est le cas avec les carnivores au zoo. Cette possibilité dépend à la fois de la nature de la dépense et des caractéristiques des animaux.
+
+La détermination des besoins nutritionnels des animaux tient compte de critères tels que :
+
+- l’espèce, 
+- la génétique, 
+- le stade physiologique, 
+
+Il faut ensuite adapter ces besoins en fonction des performances obtenues.
+
+##	Nature des dépenses
+
+### Les	dépenses d'entretien
+
+Les activités de l'organisme animal sont à l'origine d'une dépense en éléments nutritifs. **Les dépenses d'entretien correspondent à la possibilité pour l’animal de se maintenir en vie, sans variation de poids et sans production d'aucune nature**. Ce sont,
+
+-	d'une part, les dépenses dues au fonctionnement de base de l'organisme, et
+-	d'autre part, les dépenses supplémentaires liées aux conditions de vie (station debout, en déplacement, ...).
+
+### Les	dépenses de production
+
+**Les dépenses de production correspondent à la réalisation d’une production donnée par l’animal**, qui peut être : une croissance, un engraissement, une gestation, la lactation (production laitière), la ponte, un travail (traction bovine).
+
+###	Application à la vache laitière productrice de lait
+
+Le lait synthétisé dans la mamelle contient en moyenne par kg :
+
+-	871 g d'eau ; 
+-	129 g de matière sèche comprenant 48 g de lactose (glucide), 40 g de matières grasses (lipides), 
+-	33,5 g de matières azotées, 
+- 7,5 g de matières minérales, dont 1,25 g de calcium, 
+-	0,95 g de phosphore, 
+- et des vitamines et substances diverses à l'état de traces.
+
+Pour cela, la vache a effectué des dépenses en matériaux et en énergie (*en d'autres termes, elle a utilisé des produits finaux de la digestion*), expliqué en ce qui suit :
+
+####	Dépense en matériaux
+
+Les constituants organiques du lait sont, dans leur quasi-totalité, synthétisés par la mamelle à partir d'éléments prélevés dans le sang : glucose, acétate, acides gras longs, acides aminés, etc. Pour être plus précis :
+
+-	le lactose est synthétisé à partir du glucose prélevé dans le sanguin ;
+-	les protéines du lait (*caséines, lactoglobulines, lactalbumines*) sont synthétisées à partir des acides aminés ;
+-	les graisses du lait sont élaborées en partie à partir des AG longs véhiculés par le sang et inclus sans modification importante dans la matière grasse du lait, et en partie à partir de l'acétate et du β-hydroxybutyrate provenant directement ou indirectement des fermentations du rumen. Dans ce dernier cas, la mamelle réalise des synthèses qui conduisent à la production d'AG à chaînes plus courtes (8 à 14 atomes de carbone).
+
+Les minéraux et les vitamines sont extraits du sang et inclus dans le lait sans transformation ni synthèse.
+
+La production de lait occasionne ainsi une dépense en matériaux (*utilisation de nutriments*) tels que du glucose, des acides aminés, des acides gras, des minéraux, et des vitamines.
+
+####	Dépense en énergie
+
+Les différentes synthèses nécessaires pour l'élaboration du lait ont lieu dans les cellules sécrétrices des acini. Ces synthèses sont réalisées par des réactions biochimiques complexes. On peut citer, par exemple, la synthèse du lactose à partir d'une molécule de galactose et d'une molécule de glucose (équation 1) :
+
+$$Galactose + Glucose ===> Lactose + Eau$$		
+
+Le sang ne contenant pas de galactose, les cellules sécrétrices doivent donc au préalable assurer la synthèse du galactose à partir d'une molécule de glucose.
+
+Ces synthèses sont, sous la dépendance d'hormones catalysées par des enzymes, elles ne peuvent avoir lieu sans énergie. En effet, toute activité cellulaire s'accompagne d'une consommation d'énergie provenant de la combustion d'un élément (ou constituant) organique (constituant de la matière organique). Ainsi, la réaction de synthèse précédente (équation 1) peut être réalisée par les cellules sécrétrices grâce à l'énergie libérée lors de la combustion d'une molécule de glucose. Globalement, cette réaction de combustion peut s'écrire (équation 2) :
+
+$$C6H12O6 + 6 O2 ====> 6 CO2 + 6 H2O + énergie$$
+
+En fait, au niveau cellulaire, la réaction de combustion (réaction d'oxydation) est fragmentée en étapes successives. Cela permet une lente libération de l'énergie. La fourniture de l'oxygène nécessaire à la réaction d'oxydation et l'élimination des produits de déchets (CO2 et H2O) sont assurés par la respiration.
+
+L'énergie nécessaire peut provenir d'un élément (constituant) glucidique, lipidique ou protidique, qui peuvent en effet subir une oxydation au niveau cellulaire. Aux dépenses en matériaux s'ajoute donc une dépense en énergie.
+
+Ainsi, les dépenses d'entretien entraînent :
+
+-	une dépense en matériaux, liée au perpétuel renouvellement des tissus de l'organisme, dont la vitesse varie avec le tissu considéré et avec l'âge. Par exemple, le renouvellement des protéines musculaires se traduit par une perte d’azote sous forme d'urée chez les mammifères et d'acide urique chez les oiseaux, compensée par une synthèse protéique à partir des acides aminés sanguins,
+
+-	une dépense énergétique liée au maintien des processus vitaux : respiration, circulation, sécrétions internes, tonus musculaire, pousse des poils, activité physique minimale (station debout, déplacements, ...), ingestion et digestion de la ration, énergie nécessaire aux synthèses assurant le renouvellement des tissus de l'organisme, etc.
+
+##	Besoins et apports alimentaires
+
+###	Expression des besoins
+
+Alimenter rationnellement les animaux consiste à compenser les dépenses d'entretien et de production grâce à un apport par les aliments, sans carence ni excès. Il s'agit donc de fournir à l'animal un apport nutritif équilibré et en quantité suffisante.
+
+Les éléments nutritifs contenus dans les aliments ne sont pas entièrement disponibles pour la couverture de ces dépenses. En effet, les aliments sont transformés en éléments utilisables en deux étapes principales (**Figure 3.19**) :
+
+1. la digestion dont les produits finaux sont absorbés et déversés dans le sang et la lymphe sous forme de nutriments. Le coefficient d'utilisation digestive (CUD) aussi appelé la digestibilité caractérise l'efficacité de cette étape
+
+1. le métabolisme qui, à partir des nutriments, permet de satisfaire les besoins avec un rendement appelé coefficient d'utilisation métabolique (CUM).
+
+![**Figure 3.19** Représentation schématique du devenir des apports alimentaires](figures/fig319.png)
+
+Il est donc théoriquement possible d'exprimer les besoins à l'un des 3 niveaux suivants :
+
+1. celui de l'aliment (*composition brute*) ;
+1. celui de l'absorption intestinale (*utilization digestive*) ;
+1. celui de la dépense elle-même, c'est-à-dire le niveau cellulaire (*utilisation nette*).
+
+Le niveau retenu est variable selon la nature de la dépense et l’espèce animale considérées. **Dans tous les cas, pour la cohérence du système retenu, la valeur nutritive des aliments doit évidemment être exprimée au même niveau que les besoins des animaux**.
+
+####	Chez les ruminants
+
+Le niveau retenu pour l'énergie est celui de la dépense elle-même. Les besoins énergétiques et la valeur énergétique des aliments sont donc exprimés en **énergie nette** (**EN**). Pour les matières azotées, le système des **PDI** (*protéines digestibles dans l'intestin*) retient le niveau de l'absorption intestinale.
+
+####	Chez le porc et la volaille
+
+C'est le niveau de l'absorption intestinale qui est choisi pour exprimer les valeurs des aliments et des besoins en **énergie digestible** (**ED**). Pour les matières azotées, les besoins et les valeurs des aliments sont exprimées en matières azotées totales (**MAT**) et en acides aminés (**AA**) au niveau de l'aliment.
+
+Pour les minéraux, on retient dans tous les cas (ruminants et monogastriques), le niveau de l'aliment.
+
+###	Méthodes d’estimation des dépenses et des apports alimentaires
+
+Deux approches différentes peuvent être utilisées pour estimer les dépenses et les besoins :
+
+1. la **méthode factorielle** qui consiste à déterminer le besoin total en sommant les différents besoins partiels correspondant aux différentes fonctions physiologiques. Elle est en principe la plus précise mais sa principale limite réside dans la difficulté de determiner certains besoins partiels, par exemple, le besoin pour la croissance est difficile à définir car on connaît souvent mal la composition du gain de poids.
+
+1. la **méthode globale** qui repose sur l'évaluation globale du besoin total à partir d'essais d'alimentation. Elle n'est utilisée que lorsque la méthode factorielle est inutilisable ou trop imprecise.
+
+Les besoins doivent être couverts par les apports alimentaires. **Théoriquement les apports alimentaires doivent être strictement égaux aux besoins**. En pratique, et en général, on ajuste quotidiennement les apports aux besoins en considérant une marge de sécurité suffisante (très variable selon la nature des besoins), ce qui conduit aux **apports alimentaires recommandés**. Ainsi donc, les apports alimentaires recommandés (ou recommandations alimentaires) sont supérieurs aux besoins. Les principales raisons justifiant l'adoption d'une marge de sécurité sont :
+
+-	les incertitudes liées aux caractéristiques des aliments et des matières premières dues à la variabilité de leur composition et/ou à l'imprécision des méthodes d'analyse,
+
+-	les incertitudes sur la valeur exacte des besoins : l'alimentation se raisonne de plus en plus au niveau d'un troupeau et l'hétérogénéité des individus, en particulier quant à leurs performances, nécessite de prendre des marges de sécurité suffisantes. Toute homogénéisation des performances, quelle qu'en soit la cause, conduit à diminuer les apports recommandés, pour une même performance moyenne,
+
+-	les incertitudes sur la prévision des quantités consommées dont les causes multiples peuvent être liées à l'animal, à l'aliment, ou au milieu.
+
+Dans certains cas particuliers, les apports alimentaires recommandés peuvent être inférieurs aux besoins car on admet une utilisation des réserves corporelles. Deux situations peuvent être rencontrées :
+
+1. Animaux à besoins modérés pour lesquels, pour des raisons économiques, on a intérêt à minimiser le coût de l'alimentation à un moment donné. Cette diminution est obtenue par des apports alimentaires inférieurs aux besoins des animaux. Les réserves corporelles (lipidiques, azotées, minérales, vitaminiques) constituées pendant la période de pâturage, permettent de faire face au déficit de l'apport. En principe, la reconstitution est réalisée sans problème lorsque l'herbe est abondante et que la capacité d'ingestion des animaux est suffisamment importante. Cette opération est économiquement rentable dans la mesure où l'alimentation au pâturage est de faible coût.
+
+1. Animaux à besoins élevés pour lesquels entrent en jeu des impératifs physiologiques. Une telle situation se rencontre notamment en début de lactation, dans le cas des vaches laitières fortes productrices. Dans ce cas, la sous-alimentation (énergétique et minérale) des animaux est imposée, non pas par calcul stratégique, mais par capacité d'ingestion des animaux insuffisante face à des dépenses importantes.
+
+**En résumé**
+
+Les activités de l'organisme animal sont à l'origine de dépenses ou besoins,
+
+-	d'une part en énergie,
+-	d'autre part en matériaux : glucose, acides aminés, éléments minéraux.
+
+Ces dépenses couvrent l'entretien de l'animal, et éventuellement la réalisation de productions (croissance, engraissement, gestation, lactation, ponte, travail, etc).
+
+L'objectif de l'alimentation rationnelle est de couvrir les besoins avec les apports alimentaires recommandés.
+
+##	Besoins ou dépenses en énergie 
+
+
