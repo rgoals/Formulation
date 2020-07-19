@@ -67,13 +67,13 @@ La production de lait occasionne ainsi une dépense en matériaux (*utilisation 
 
 ####	Dépense en énergie
 
-Les différentes synthèses nécessaires pour l'élaboration du lait ont lieu dans les cellules sécrétrices des acini. Ces synthèses sont réalisées par des réactions biochimiques complexes. On peut citer, par exemple, la synthèse du lactose à partir d'une molécule de galactose et d'une molécule de glucose (équation 1) :
+Les différentes synthèses nécessaires pour l'élaboration du lait ont lieu dans les cellules sécrétrices des acini. Ces synthèses sont réalisées par des réactions biochimiques complexes. On peut citer, par exemple, la synthèse du lactose à partir d'une molécule de galactose et d'une molécule de glucose (**équation 3.1**) :
 
 $$Galactose + Glucose ===> Lactose + Eau$$		
 
 Le sang ne contenant pas de galactose, les cellules sécrétrices doivent donc au préalable assurer la synthèse du galactose à partir d'une molécule de glucose.
 
-Ces synthèses sont, sous la dépendance d'hormones catalysées par des enzymes, elles ne peuvent avoir lieu sans énergie. En effet, toute activité cellulaire s'accompagne d'une consommation d'énergie provenant de la combustion d'un élément (ou constituant) organique (constituant de la matière organique). Ainsi, la réaction de synthèse précédente (équation 1) peut être réalisée par les cellules sécrétrices grâce à l'énergie libérée lors de la combustion d'une molécule de glucose. Globalement, cette réaction de combustion peut s'écrire (équation 2) :
+Ces synthèses sont, sous la dépendance d'hormones catalysées par des enzymes, elles ne peuvent avoir lieu sans énergie. En effet, toute activité cellulaire s'accompagne d'une consommation d'énergie provenant de la combustion d'un élément (ou constituant) organique (constituant de la matière organique). Ainsi, la réaction de synthèse précédente (équation 3.1) peut être réalisée par les cellules sécrétrices grâce à l'énergie libérée lors de la combustion d'une molécule de glucose. Globalement, cette réaction de combustion peut s'écrire (**équation 3.2**) :
 
 $$C6H12O6 + 6 O2 ====> 6 CO2 + 6 H2O + énergie$$
 
@@ -153,5 +153,283 @@ Ces dépenses couvrent l'entretien de l'animal, et éventuellement la réalisati
 L'objectif de l'alimentation rationnelle est de couvrir les besoins avec les apports alimentaires recommandés.
 
 ##	Besoins ou dépenses en énergie 
+
+La transformation des aliments au cours de la digestion apporte de l'énergie aux cellules de l'organisme. L'animal se procure l'énergie nécessaire à la couverture de ses besoins en utilisant les nutriments issus de la digestion des aliments et de l'absorption, ou en se servant de ses réserves corporelles en cas d’un jeûne ou d’une sous-alimentation.
+
+Les dépenses énergétiques des animaux correspondent à une production de matières (*fœtus, lait, tissus corporels, œuf, laine ou autre*) contenant de l'énergie chimique, et une production de chaleur provenant du fonctionnement de l'organisme.
+
+On peut distinguer 3 types de dépenses énergétiques :
+
+-	la **dépense énergétique d'entretien**, liée au maintien de la vie et au fonctionnement normal de l'organisme dans les conditions d'élevage, sans tenir  compte  des productions,
+
+-	les **dépenses énergétiques de production**, correspondant à l'énergie contenue dans les produits (*fœtus, lait, tissus corporels, œuf, laine, ou autre*),
+
+-	et **l’extra-chaleur** qui est la dépense énergétique consécutive à l'utilisation des aliments pour satisfaire les dépenses d'entretien et de production. L'extra-chaleur se manifeste par une production de chaleur.
+
+On peut écrire (**équation 3.3**) :
+
+$$Dépense~totale = Dépense~d'entretien + Dépense~de~production + Extrachaleur$$
+
+L'unité officielle de mesure de l’énergie est le **joule** (**J**) ou le **kilojoule** (**kJ**), mais on utilise aussi la **calorie** (**cal**) ou la **kilocalorie** (**kcal**). Le joule et la calorie sont liées par (**équation 3.4**) :
+
+$$1~cal = 4,185~J~et~1~kcal = 4,185~kJ$$
+
+###	La dépense en énergie pour l’entretien
+
+La dépense d'entretien comprend l'énergie dépensée par le métabolisme de base et l'énergie nécessaire au maintien du poids de l'animal dans les conditions de vie normale.
+
+####	Le metabolisme de base (Métabolisme basal)
+
+C'est la dépense énergétique d'un animal à jeun, au repos, non endormi, placé à une température correspondant à la **zone de neutralité thermique**. 
+
+> La zone de neutralité thermique est la plage de température où l'organisme n'effectue pas de dépense pour lutter contre l'excès de chaleur ou contre le froid (**Tableau 3.5**).
+
+**Tableau 3.5** Zone de neutralité thermique de différentes catégories d'animaux
+
+|Catégorie d’animaux|Zone de neutralité thermique|
+|:----|:----:|
+|Bovins|5 à 20 °C|
+|Chèvres|10 à 20 °C|
+|Veaux|5 à 15 °C|
+|Porcs de 40 à 80 kg|20 à 23 °C|
+|Porcs de 80 à 110 kg|15 à l6 °C|
+|Volailles|15 à 25 °C|
+|Poussins d'un jour|≈ 32 °C|
+|Poulettes de six semaines|≈ 21 °C|
+|Poules pondeuses|15 à 20 °C|
+|Lapins|15 à 18 °C|
+
+Le métabolisme de base augmente moins vite que le poids vif des animaux. Il n'est pas proportionnel au poids, mais plutôt à la surface corporelle et plus précisément au poids vif (kg) élevé à la puissance 0,75 qu'on appelle le **poids métabolique** (**équation 3.5**).
+
+$$Poids~métabolique = (Poids~vif)^{0,75}$$
+
+On exprime donc les dépenses du métabolisme de base par rapport au poids métabolique et non par rapport au poids vif.
+
+La dépense du métabolisme de base est de l'ordre de $70~kcal/kg~P^{0,75}$ pour l'homme et les espèces domestiques. Cette dépense varie avec :
+
+-	l'espèce : $75~kcal/kg~P^{0,75}$ chez les bovins, $55~kcal/kg~P^{0,75}$ chez les ovins,
+
+-	la race : elle est supérieure de 13 % chez les bovins laitiers comparés aux bovins à viande,
+
+-	l'individu, 
+-	la saison, 
+-	la lumière 
+-	et la température.
+
+####	Dépense énergétique d'entretien
+
+Dans les conditions habituelles d'élevage, un animal n'est jamais placé dans les conditions définies pour la mesure du métabolisme de base. Il réalise une activité physique et vit dans des condifions climatiques parfois éloignées de celles du confort thermique.
+
+La dépense énergétique d'un animal à l'entretien correspond à la production de chaleur de l'animal non productif à jeun. Elle comprend l'énergie dépensée par le métabolisme de base et l'énergie nécessaire au maintien de l'animal dans les conditions de vie normales (**équation 3.6**).
+
+$$Entretien = Métabolisme~de~base + Thermorégulation + Activité~physique$$
+
+###	La dépense en énergie pour la production
+
+Les produits réalisés peuvent être exportés (*lait, œufs, laine*), ou stockés au sein de la masse corporelle (*croissance*).
+
+Les quantités de lipides (**Lip.**), de protéines (**Prot.**) et de glucides (**Glu.**) fixées ou exportées permettent de calculer la quantité d'énergie contenue dans le produit réalisé, c'est-à-dire la dépense énergétique de production (**DÉP**) par (**équation 3.7**) :
+
+$$DÉP~(kcal) = 5,5 * Prot. (g) + 9,4 * Lip. (g) + 4,1 * Glu. (g)$$
+
+####	Dépense en énergie pour la production de lait
+
+La dépense en énergie pour la production de lait dépend de la quantité de lait produite et de sa composition chimique. Le **Tableau 3.6** présente les compositions moyennes d'un kg de lait de différentes espèces. La dépense occasionnée par la production de 1 kg de lait peut être calculée à partir de sa composition chimique.
+
+**Tableau 3.6** Composition moyenne d'un kg de lait de différentes espèces
+
+|| Matières grasses (g)|Protéines (g)|Lactose (g)|Énergie (kcal)*|
+|:----|:----:|:----:|:----:|:----:|
+|Lait standard de vache|40|31|48|740|
+|Lait de chèvre|32|30|43|670|
+|Lait de brebis|63|56|44|1080|
+|Lait de truie (des 3 1ères semaines)|69|46|55|1140|
+|Lait de lapine|120|160|20|2250|
+
+(*Verifiez les valeurs de l’énergie avec l’équation de la dépense énergétique !!!*)
+
+Lorsqu'il est difficile de connaitre la production laitière d'une femelle allaitante, on peut estimer la dépense en énergie pour la lactation à partir de la croissance de la portée. Le **Tableau 3.7** donne des estimations de la production de lait de la brebis allaitante au cours des trois premières semaines de lactation à partir de la croissance entre 10 et 30 jours de la portée.
+
+**Tableau 3.7** Production laitière de la brebis (en litres) selon le GMQ 10-30j de sa portée.
+
+![](figures/tab37.png)
+
+(S’essayer à estimer le besoin en énergie pour la production d’une brébis de chaque catégorie !!!).
+
+####	Dépense en énergie pour la croissance
+
+Elle correspond à l'énergie des protéines et des lipides fixés. La croissance est due essentiellement à une accumulation de protéines et de lipides corporels. On néglige l'énergie fixée sous forme de glucides, car les réserves glucidiques corporelles sont faibles. 
+
+La fixation énergétique s'effectue dans les muscles, les dépôts adipeux, les os, les viscères, la peau, le sang, etc. Elle dépend de la vitesse de croissance et de la composition chimique du croît.
+
+La quantité d'énergie fixée est d'autant plus grande que le dépôt de gras est plus intense.
+
+####	Dépense en énergie pour la gestation
+
+La dépense en énergie pour la gestation correspond à la fixation d’énergie par le ou les fœtus, le placenta, les enveloppes, la paroi utérine et la glande mammaire. Elle devient importante au cours du dernier tiers $(1/3)$ de la gestation.
+
+####	Dépense en énergie pour la production d'œufs
+
+L'œuf entier de poule a la constitution moyenne suivante : 
+
+- coquille 9 %, 
+- albumen 61 %, 
+- vitellus 30 %. 
+
+La partie comestible d'un œuf de poule de $60~g$ est composée en moyenne de :
+
+-	$40~g$ d'eau ;
+-	$6,7~g$ de protéines ;
+-	$6,5~g$ de lipides ;
+-	$0,2~g$ de glucides 
+-	et $0,5~g$ de minéraux. 
+-	Il contient environ $100~kcal$, soit $1,6~kcal/g$ d'œuf.
+
+####	Dépense en énergie pour la production de laine et de poils
+
+Cette dépense est très faible. Elle est par exemple de :
+
+- $17~kcal/j$ pour la production annuelle de $1~kg$ de laine mohair par une chèvre Angora, 
+- ou $55~kcal/j$ pour la production annuelle d'une toison de $4~kg$ par un mouton Mérinos.
+
+####	Dépense en énergie pour la reconstitution des réserves corporelles
+
+Chez les femelles en lactation, les réserves corporelles mobilisées participent à la couverture de la dépense énergétique lorsque l'apport énergétique est inférieur à la dépense. La reconstitution des réserves est nécessaire pour aborder un nouveau cycle de production. L'accroissement de la masse corporelle est surtout réalisé par une accumulation de lipides. $1~kg$ de gain de masse corporelle correspond à une fixation énergétique de $7500~kcal$ chez la vache laitière.
+
+La masse corporelle est estimée imparfaitement à partir du poids vif car la masse du contenu digestif est très variable. L'appréciation et la notation de l'état corporel des animaux permettent d'estimer le niveau des réserves corporelles, ainsi que leurs variations dans le temps.
+
+####	Dépense en énergie pour le travail musculaire (l’effort musculaire)
+
+Tout travail musculaire provoque une augmentation de la consommation d'oxygène par rapport à celle enregistrée chez l'animal au repos. L'élévation de la consommation d'O2 reflète l'intensité du travail fourni et permet de quantifier la dépense calorifique consécutive au travail.
+
+La consommation du cheval de selle de $550~kg$, exprimée en litre d'O2/mn, s'accroît linéairement avec la vitesse de course, exprimée en m/mn. La relation est la suivante (**équation 3.8**) :
+
+$$Quantité~d’O2~(en~litre/mn) = 3,78 + 0,097 * vitesse~(en~m/mn)$$
+
+Ce même cheval au repos consomme $1,65~litres~d'O2/mn$. La dépense énergétique est calculée à partir de la consommation d'O2 pendant et après l'effort (*exemple ultérieurement !*). Après un effort, on enregistre une forte consommation appelée dette en O2, due au métabolisme du lactate produit par le muscle en état d'anaérobiose au moment de l'effort.
+
+###	L’extra-chaleur
+
+L’extra-chaleur ou la dépense d'extra-chaleur est consécutive à :
+
+-	l'ingestion et la digestion des aliments, c'est-à-dire la prise des aliments, la mastication, le brassage, la progression du bol alimentaire dans le tube digestif, la chaleur des fermentations, l'activité glandulaire et métabolique des différentes parties du tube digestif. Il faut y ajouter la perte calorifique due à l'agitation des animaux avant la distribution des repas,
+
+-	l'utilisation métabolique des nutriments absorbés. Par exemple, une mole de glucose fournit à la cellule $473~kcal$ dans des conditions aérobies alors que la combustion complète d'une mole de glucose fournit $673~kcal$. Toute l'énergie potentielle du glucose n'est pas utilisée par la cellule, il y a transformation incomplète de l'énergie avec un rendement de $473/673~(≈ 0,7)$. Le complément, c'est-à-dire les 30 % restant de l'énergie, est perdu sous forme de chaleur.
+
+Un animal qui ne réalise aucune production, couramment appelé animal à l'entretien (*exemple : animal à poids constant, vache tarie non gestante à poids constant*), a cependant deux types de dépenses :
+
+1. une dépense énergétique d'entretien telle qu'elle a été précédemment définie
+
+1. et une dépense d'extra-chaleur, dite extra-chaleur d'entretien.
+
+Lorsque cet animal réalise une production, aux dépenses précédentes s'ajoutent (**Figure 3.20**):
+
+-	une dépense énergétique de production et 
+-	une dépense d'extra-chaleur appelée extra-chaleur de production. 
+
+On peut donc écrire (**équation 3.8**) :
+Extra-chaleur totale = extra-chaleur d'entretien + extra-chaleur de production
+
+![**Figure 3.20** Utilisation de l’énergie métabolisable](figures/fig320.png)
+
+On définit également l’extra-chaleur comme correspondant à l’augmentation de production calorique due au fait qu’un animal passe de l’état de jeûne à l’état d’animal alimenté (**équation 3.9**) :
+
+$$ECt = Calimenté~–~Cjeun$$
+avec :
+
+- $ECt = Extrachaleur~totale$,
+- $Calimenté = production~de~haleur~de~l’animal~alimenté$,
+- $Cjeun = production~de~chaleur~de~l’animal~à~jeun$.
+
+La **Figure 3.21** fait apparaître les différentes origines de la chaleur produite : **entretien, extra-chaleur d’entretien et extra-chaleur de production**.
+
+![**Figure 3.21** Évolution de la production de chaleur en fonction du bilan énergétique.](figures/fig321.png)
+
+-	Le point **A** correspond à un animal à jeun et à poids constant, qui produit cependant de la chaleur en mobilisant des reserves corporelles pour couvrir ses dépenses d’entretien (cas théorique). 
+-	Le point **B** correspond à un animal à l’entretien et alimenté, 
+-	et le point **C**, à un animal en production et alimenté.
+
+**En résumé**
+
+Les dépenses énergétiques des animaux sont de 3 types :
+
+1. la dépense d'entretien qui comprend l'énergie dépensée par le métabolisme de base et l'énergie nécessaire au maintien de l'animal dans des conditions de vie normale :
+$Entretien = métabolisme~de~base + thermorégulation + activité~physique$. Le métabolisme de base est la dépense énergétique d'un animal à jeun, au repos, placé à une température correspondant à la zone de neutralité thermique,
+
+1. la dépense de production correspond à l'énergie contenue dans les produits réalisés : lait, gain de poids, œufs, ou autre,
+
+1. la dépense liée à l'utilisation des aliments, l'extra-chaleur, consécutive à l'ingestion et à la digestion des aliments, et aux transformations chimiques des nutriments mis à la disposition de l'organisme pour couvrir les dépenses.
+
+###	Les différentes étapes de l’utilisation de l’énergie
+
+L'utilisation des aliments par les animaux s'accompagne de nombreuses transformations dans l'appareil digestif puis dans les tissus. Les composants organiques (les glucides, les proteines et les lipides) sont dégradés progressivement, chaque étape entraînant des pertes organiques et calorifiques (énergétiques) qui varient selon les aliments et selon les animaux.
+
+####	L’énergie brute
+
+L'**énergie brute** (**EB**) est la quantité d'énergie contenue dans l'aliment. Elle est déterminée par combustion d'un échantillon dans une bombe calorimétrique, ou estimée par des formules à partir de la composition chimique de l'aliment. La quantité d'énergie brute varie selon la nature de l’aliment en fonction des nutriments présents dans celui-ci. L’EB n’est jamais valorisée complètement par l’animal (**Figure 3.22**).
+
+![**Figure 3.22** Les différentes étapes de l'utilisation de l'énergie des aliments](figures/fig322.png)
+
+En effet, selon la **digestibilité** de la ration, une fraction plus ou moins importante de l’**EB** se retrouve dans les matières fécales et est donc perdue. L’énergie résiduelle s’appelle l’**énergie digestible** (**ED**). Une fraction de l’**ED** est ensuite perdue via les urines et les gaz, l’énergie restante s’appelant l’**énergie métabolisable** (**EM**). Au niveau cellulaire, l’**EM** est en partie dissipée sous forme d’**extrachaleur** (*de façon simplifiée, surplus de production de chaleur chez l’animal qui a fait un repas*), le solde étant l’**énergie nette** (**EN**) qui est disponible pour les cellules animales. 
+
+####	L’énergie digestible
+
+L'**énergie digestible** (**ED**) est obtenue par différence entre l'énergie brute **EB** et l'énergie contenue dans les matières organiques fécales (**EF**) (**équation 3.10**) : 
+
+$$ED = EB - EF$$
+
+La digestibilité de l'énergie (**dE**) est le rapport entre l'ED et l'EB $dE = ED/EB$
+d’où (**équation 3.11**) : 
+
+$$ED = EB * dE$$
+
+Pour un type d'animal donné, la teneur de l'aliment en parois est le principal facteur de variation de la digestibilité de la matière organique et donc du coefficient $dE$. Il en résulte une grande variabilité de ce coefficient entre les aliments.
+
+####	L’énergie métabolisable et ses facteurs de variation
+
+L'**énergie métabolisable** (**EM**) est égale à l'énergie digestible diminuée de l'énergie contenue dans les gaz combustibles, surtout le méthane, issus des fermentations digestives (**EG**) et de l'énergie contenue dans les urines (**EU**) (**équation 3.12**) :
+
+$$EM = ED - EG - EU~~ou~~EM = EB - (EF + EG + EU)$$
+
+On peut aussi écrire, en faisant apparaître le rapport $\frac{EM}{ED}$, que $EM = ED*\frac{EM}{ED}$.
+
+L'énergie métabolisable correspond à la quantité d'énergie alimentaire utilisable par les tissus de l'organisme. Elle est sensiblement constante pour un aliment quelle que soit la fonction (croissance, lactation, engraissement) pour laquelle elle est utilisée. L’**EM** sert à faire face aux dépenses énergétiques liées à l'entretien et à la production (**équation 3.13**).
+
+$$EM totale = EM entretien + EM production$$
+
+__Facteurs de variation de l’EM__
+
+L'importance de la production de gaz témoigne de l'activité de la flore digestive. L'énergie contenue dans le méthane rejeté peut atteindre :
+
+-	8 % de l'EB des fourrages distribués à des ruminants ;
+-	3 à 4 % de l'EB des foins ingérés par le cheval ;
+-	1 % de l'EB ingérée par le porc.
+
+Pour rappel, les nutriments absorbés ne sont pas totalement dégradés dans l'organisme et une partie est excrétée dans l'urine, en particulier sous forme d'urée ou d'acide urique. L'énergie urinaire correspond à 3 à 5 % de l'EB, et son importance varie avec :
+
+-	l'animal : les animaux  fixant une grande quantité de protéines excrètent peu  de matières azotées urinaires, et perdent donc peu d'énergie dans leurs urines ;
+
+-	l'aliment : les pertes urinaires sont accrues si les apports azotés sont supérieurs aux besoins des animaux, ou sont excessifs par rapport au contenu énergétique de la ration, ou sont mal équilibrés en acides aminés.
+
+####	L’énergie nette et ses facteurs de variation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
