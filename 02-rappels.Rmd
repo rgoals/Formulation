@@ -24,6 +24,8 @@ La **craie** (carbonate de calcium), les **phosphores**, les **coquillages** bro
 
 Les **concentrés minéraux-vitamines** (CMV) du commerce sont la principale source de ces différents éléments, et sont généralement incorporés à des doses qui varient entre 0,5 et 5% de la ration.
 
+## Compositon des aliments
+
 Les aliments distribués aux bovins, simples ou mélangés, sont composés d’eau et de divers nutriments (_des glucides, des lipides, des matières azotées, des vitamines et des minéraux_) ainsi que des substances totalement dépourvues de valeur nutritive telle que la lignine. 
 
 Le **nutriment** est une substance chimique contenue telle quelle dans les aliments ou provenant de leur digestion, et que les cellules utilisent directement dans leur métabolisme.
@@ -32,8 +34,8 @@ Lorsqu’on place un aliment dans une **étuve**, l’eau contenue dans l’alim
 
 Tous les aliments contiennent une certaine fraction (proportion) de **MS**. Ainsi, la teneur en MS de l’**herbe** est de l’ordre de 20%, alors que celles du **foin** et des **céréales** se situent entre 85 et 90%.
 
-La MS comprend la **matière organique** (_caractérisée par la présence d’atomes de carbone_) et la **matière minérale**. La matière organique renferme les glucides, la lignine, les lipides, les matières azotées et les vitamines. La matière minérale comprend quant à elle les minéraux. L'organigramme ci-après présente la composition des aliments selon **Brocard et al. (2010)**.
+La MS comprend la **matière organique** (_caractérisée par la présence d’atomes de carbone_) et la **matière minérale**. La matière organique renferme les glucides, la lignine, les lipides, les matières azotées et les vitamines. La matière minérale comprend quant à elle les minéraux. L'organigramme ci-après (**Figure 2.1**) présente la composition des aliments selon **Brocard et al. (2010)**.
 
 <img src = "figures/diag21.png" alt = "figures/diag21" width = "700" height = "500"/>
 
-Figure 2.1 Composition des aliments selon Brocard et al (2010).
+**Figure 2.1** Composition des aliments selon Brocard et al (2010).
