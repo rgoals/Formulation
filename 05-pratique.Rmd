@@ -1,11 +1,21 @@
 # Pratique de la formulation {#pratique}
 
-We have finished a nice book.
+##	Principe général
 
-## gh
+Le but de l’alimentation est de fournir aux animaux des aliments dont les caractéristiques permettent, dans les conditions d’élevage données, une production (de viande, d’œufs, de lait, de laines, …) assurant le bénéfice le plus élevé. Il s’agit donc de maximiser la différence entre recettes et dépenses.
 
-## kf
+Les recttes dépendent de la quantité des produits et de leur qualité. Il en est de même des dépenses pour lesquelles, l’alimentation représente la part majeure (environ 70%).
 
-## ld
+Le bénéfice maximum n’est pas forcément atteint avec la performance maximale. Il existe une infinité de solutions techniques envisageables pour associer des matières premières mais c’est la solution de l’optimum économique qui est recherché.
+
+##	La notion de besoin
+
+Le besoin en un nutriment donné est la quantité minimale du nutriment (par animal ou par unité de performence) à donner à l’animal et au-délà de laquelle le gain de poids vif (croissance) ou la quantité d’œufs produits, de lait produit, de laine produite, ..., n’augmente plus même si on augmente la quantité du nutriment apporté. Cette relation est représentée à la **Figure 5.1** avec un modèle de réponse linéaire-plateau.
+
+![**Figure 5.1** Modèle linéaire de définition du besoin pour une performance (P) en focntion des apports du nutriment (A)](figures/fig5.1.png)
+
+La pente de la droite exprime l’inverse du besoin de production. L’intersection de la droite avec l’axe des abscisses représente le besoin d’entretien. Ce peut être la quantité de lysine nécessaire pour produire 1 g d’œuf, ou la quantité journalière nécessaire à l’entretien de 1 kg de poids vif.
+
+Le besoin peut être autre que le gain de poids, la variable peut être l’indice de consommation, ou la masse corporelle non lipidique, ou la quantité de viande de la carcasse, ..., ou un critère économique tel que la marge (recettes – charges). Un besoin fait toujours référence à un objectif.
 
 

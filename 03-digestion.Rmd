@@ -47,7 +47,7 @@ L’**intestin grêle** est bien développé chez le porc où il représente le 
 
 **Tableau 3.2** Origine et rôles des principales sécrétions digestives chez le porc.
 
-![](figures/tab32.png)
+![](figures/tab3.2.png)
 
 Le **gros intestin** est constitué d'un **cæcum** assez volumineux (2 litres) et du **côlon** (_côlon hélicoïdal et côlon flottant_). L'ensemble du gros intestin est caractérisé par l'absence de vilosités et la présence d'une activité microbienne importante.
 
@@ -117,7 +117,7 @@ Il existe dans le gros intestin du porc, notamment dans le cæcum, une populatio
 
 Les bactéries assurent également la synthèse de vitamines B qui peuvent être absorbées mais ne suffisent pas à la couverture des besoins.
 
-Le Tableau 3.2 (ci-haut) permet de constater que les diverses sécrétions digestives apportent un équipement enzymatique complet, apte à dégrader la majorité des substrats protéiques, glucidiques et lipidiques. 
+Le **Tableau 3.2** (ci-haut) permet de constater que les diverses sécrétions digestives apportent un équipement enzymatique complet, apte à dégrader la majorité des substrats protéiques, glucidiques et lipidiques. 
 
 Les sites de déversement et les activités enzymatiques sont tels que la dégradation des divers substrats s'effectue de façon séquentielle au cours du transit des aliments qui dure de 4 à 6 jours.
 
@@ -232,7 +232,7 @@ Les glandes salivaires, peu développées, sécrètent de la ptyaline. Il n'y a 
 
 L'œsophage contient un renflement dont l'épithélium est riche en glandes à mucus : le jabot (**Figure 3.3**). Cet organe peut stocker des aliments, les humecter et les ramollir. Il fonctionne chez le poulet alimenté à volonté.
 
-![[**Figure 3.3**](http://img.xooimage.com/files24/e/c/d/digestifqp8-17ea67b.jpg) L’appareil digestif du poulet.](figures/fig33.jpg) 
+![[**Figure 3.3**](http://img.xooimage.com/files24/e/c/d/digestifqp8-17ea67b.jpg) L’appareil digestif du poulet.](figures/fig3.3.jpg) 
 
 L'estomac comprend deux parties :
 
@@ -249,7 +249,7 @@ La longueur totale du tube digestif est d'environ 2 mètres chez le poulet adult
 
 Les enzymes digestives des volailles sont similaires à celles des mammifères sauf la lactase qui est absente. Le transit des aliments est relativement rapide, il dure en moyenne 24 heures (**Figure 3.4**).
 
-![**Figure 3.4** Principales étapes de la digestion chez le poulet. Adapté de Gadoud et al. (1992).](figures/fig34.png)
+![**Figure 3.4** Principales étapes de la digestion chez le poulet. Adapté de Gadoud et al. (1992).](figures/fig3.4.png)
 
 Dans **la bouche**, 
 
@@ -281,7 +281,7 @@ Le **cæcum**
 
 Le tube digestif des bovins est composé de la bouche, de la langue, des dents, du pharynx digestif, de l’œsophage, des estomacs, des intestins, du rectum et de l’anus. Les estomacs se composent du réseau, du rumen, du feuillet et de la caillette (**Figure 3.5**). Le rumen, le réseau et, à un moindre degré, le feuillet, hébergent une population microbienne importante. Cette configuration particulière permet au ruminant d’effectuer une prédigestion microbienne des aliments, avec une utilisation particulièrement poussée des fibres présentes dans la ration (Gadoud et al., 1992 ; Cuvellier et al., 2012).
 
-![[**Figure 3.5**](http://www.permaculteurs.com/wp-content/uploads/2015/06/permaculteurs_2015-06-03_11-44-37.gif) Schéma simplifié du tube digestif de bovin adulte.](figures/fig35.png)
+![[**Figure 3.5**](http://www.permaculteurs.com/wp-content/uploads/2015/06/permaculteurs_2015-06-03_11-44-37.gif) Schéma simplifié du tube digestif de bovin adulte.](figures/fig3.5.png)
 
 ####	La bouche et l’œsophage
 
@@ -297,11 +297,11 @@ L’estomac est volumineux, au point d’occuper les 4/5 de la cavité abdominal
 
 Le **réseau et le rumen**, visibles sur la **Figure 3.6**, sont souvent considérés ensemble car leur contenu se mélange fréquemment.
 
-![**Figure 3.6** Aperçu du réseau et du rumen (Cuvellier et al., 2012).](figures/fig36.png)
+![**Figure 3.6** Aperçu du réseau et du rumen (Cuvellier et al., 2012).](figures/fig3.6.png)
 
 Le **rumen (ou la panse)** a une capacité d’environ 150 litres et représente 80% du volume total des estomacs. Sa paroi (muqueuse) interne, non sécretrice, est constituée de papilles (**Figure 3.7**) qui augmentent la surface de contact avec la masse alimentaire et qui permettent l’absorption de certains nutriments. 
 
-![[**Figure 3.7**](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXpmZkn-mdepcH1TvThYFSOzGhh6JDUoU6DQ&usqp=CAU) Schéma du tube digestif du bovin adulte présentant les structures internes des estomacs.](figures/fig37.png)
+![[**Figure 3.7**](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXpmZkn-mdepcH1TvThYFSOzGhh6JDUoU6DQ&usqp=CAU) Schéma du tube digestif du bovin adulte présentant les structures internes des estomacs.](figures/fig3.7.png)
 
 Le **rumen** est situé sur le côté gauche de l’animal et s’étend du diaphragme au bassin. Une musculeuse importante comportant des piliers charnus divise le rumen en deux sacs. Il communique de façon large avec le réseau.
 
@@ -416,13 +416,13 @@ La nature de la ration alimentaire, le pH intra-ruminal et le niveau d’ingesti
 
 La vitesse et l’ampleur de la digestion des glucides dans le rumen varient selon la nature de ceux-ci et selon l’origine botanique. Les sucres solubles et l’amidon sont rapidement fermentés. Exemples : l’amidon de l’avoine, de l’orge et du blé : amidon à dégradation rapide ou amidon rapide. Le maïs, le sorgho et la pomme de terre ont un amidon lent. L’amidon de l’orge est dégradé dans le rumen à raison de 90 à 95 %, alors que celui du maïs est dégradé selon des proportions nettement moindres (50 à 90 %). Les glucides pariétaux (cellulose et hémicellulose) sont quant à eux dégradés lentement et partiellement (de l’ordre de 30 à 50 %) (**Figure 3.9**). 
 
-![**Figure 3.9** Schéma de la digestion des glucides dans le rumen (Cuvellier et al., 2012).](figures/fig39.png)
+![**Figure 3.9** Schéma de la digestion des glucides dans le rumen (Cuvellier et al., 2012).](figures/fig3.9.png)
 
 La **lignine** n’est pas dégradée par le ruminant.
 
 Une fraction de l’amidon non digéré dans le rumen subit une digestion enzymatique dans l’intestin grêle qui entraîne la formation de glucose, absorbé à travers la paroi. L’amidon non digéré dans l’intestin grêle est en partie dégradé par les microorganismes du gros intestin. Les glucides pariétaux qui ont échappé aux fermentations microbiennes peuvent quant à eux subir une seconde fermentation dans le colon. La **Figure 3.10** tirée de Cuvellier et al. (2012) schématise la digestion des glucides chez le ruminant.
 
-![**Figure 3.10** Schéma de la digestion des glucides chez le ruminant (Cuvellier et al., 2012).](figures/fig310.png)
+![**Figure 3.10** Schéma de la digestion des glucides chez le ruminant (Cuvellier et al., 2012).](figures/fig3.10.png)
 
 ####	La dégradation des matières azotées
 
@@ -434,7 +434,7 @@ En présence d'énergie (issue de la dégradation des glucides) et de chaînes c
 
 Pour que la totalité des matières azotées fermentescibles soit utilisée, il est nécessaire qu’il y ait suffisamment d’énergie. Dans le cas contraire, les matières azotées excédentaires seront éliminées sous forme de NH3 potentiellement toxique. Le NH3 en excédent est en effet absorbé par la paroi du rumen et transporté jusqu’au foie où il est transformé en urée (**Figure 3.11**). Cette urée est principalement excrétée par les reins et éliminée par les urines et le lait chez la vache laitière. Elle peut cependant également retourner au rumen à travers la salive.
 
-![**Figure 3.11** Schéma de la digestion des matières azotées chez le ruminant.](figures/fig311.png)
+![**Figure 3.11** Schéma de la digestion des matières azotées chez le ruminant.](figures/fig3.11.png)
 
 **Que deviennent les protéines microbiennes ?** Une partie de la population microbienne (et donc de leurs protéines) est dégradée au sein du rumen. Une autre partie reste libre dans le liquide du rumen. Une dernière partie est accrochée aux particules alimentaires. Une partie des bactéries libres et fixées aux particules alimentaires quitte le rumen et passe dans la caillette, où elle subit alors la digestion enzymatique (**Figure 3.11**).
 
@@ -460,7 +460,7 @@ A côté de leur activité de dégradation des lipides alimentaires, les microor
 du rumen synthétisent des lipides microbiens, caractérisés notamment par la présence
 d’acides gras ramifiés. Lorsque ces microorganismes quittent le rumen et passent dans la caillette, ils sont tués et désintégrés par le suc gastrique. Ceci permet la  libération des lipides microbiens, les acides gras libres microbiens rejoignant le  pool d’acides gras libres pour subir la digestion et l’absorption intestinales (**Figure 3.12**).
 
-![**Figure 3.12** Schéma de la digestion des lipides chez le ruminant.](figures/fig312.png)
+![**Figure 3.12** Schéma de la digestion des lipides chez le ruminant.](figures/fig3.12.png)
 
 ####	Bilan de la digestion chez le ruminant
 
@@ -477,7 +477,7 @@ Il sort du rumen-réseau :
 -	une partie plus faible des protozoaires ;
 -	35 à 40 % de la matière organique digestible de la ration, surtout constituée de protéines alimentaires et de glucides pariétaux ayant échappé à la dégradation microbienne (**Figure 3.13**).
 
-![**Figure 3.13** Schéma de la dégradation des constituants organiques des aliments dans le rumen réseau](figures/fig313.png)
+![**Figure 3.13** Schéma de la dégradation des constituants organiques des aliments dans le rumen réseau](figures/fig3.13.png)
 
 Après le rumen-réseau, la digestion dans l'estomac fonctionnel (la caillette) et dans les intestins est pratiquement semblable à celle qui a lieu chez le porc. On peut cependant noter les particularités suivantes :
 
@@ -505,7 +505,7 @@ L'**absorption** est le passage de matériaux de la lumière intestinale vers le
 
 Ainsi, toutes les substances absorbées se retrouvent en définitive dans le sang, soit directement, soit par la lymphe (**Figure 3.14**).
 
-![**Figure 3.14** Les deux voies de transport des nutriments](figures/fig314.png)
+![**Figure 3.14** Les deux voies de transport des nutriments](figures/fig3.14.png)
 
 L'absorption des vitamines est liée à leur solubilité : 
 
@@ -515,11 +515,11 @@ L'absorption des vitamines est liée à leur solubilité :
 
 L'eau contenant les sels minéraux est absorbée surtout dans les intestins chez les non-ruminants, dans le feuillet et les intestins chez les ruminants.
 
-**Les produits de l'absorption, ou les nutriments, sont déversés dans le sang ou la lymphe et rejoignent en définitive la circulation sanguine**. Le **Tableau 3.3** présente de façon simplifiée les résultats de l'absorption chez le porc, le cheval et les ruminants.
+**Les produits de l'absorption, ou les nutriments, sont déversés dans le sang ou la lymphe et rejoignent en définitive la circulation sanguine**. Le **Tableau 3.4** présente de façon simplifiée les résultats de l'absorption chez le porc, le cheval et les ruminants.
 
-**Tableau 3.3** Résultats de l'absorption chez le porc et les ruminants.
+**Tableau 3.4** Résultats de l'absorption chez le porc et les ruminants.
 
-![](figures/tab33.png)
+![](figures/tab3.4.png)
 
 ## L’utilisation digestive des aliments
 
@@ -532,7 +532,7 @@ $$da=\frac{(I-F)}{I}=\frac{(qté~ingérée~-~qté~excrétée~dans~les~fèces)}{q
 
 Mais en fait, il existe dans les féces, des produits qui ne proviennent pas des ingesta. Ce sont des substances endogènes (sécrétions digestives, mucus, produits de desquamation de la paroi du tube digestif) ou d'origine microbienne, dont il est très difficile d'évaluer l'importance. Ces produits sont appelés « **fèces endogènes** (**Fe**) » (**Figure 3.15**).
 
-![**Figure 3.15** Schéma de l’utilisation digestive des aliments](figures/fig315.png)
+![**Figure 3.15** Schéma de l’utilisation digestive des aliments](figures/fig3.15.png)
 
 On définit alors la **digestibilité réelle** (**dr**) comme la proportion d'aliment qui disparaît réellement dans le tube digestif; **dr** est donc plus élevée que **da** :
 
@@ -586,19 +586,19 @@ Les données sur la digestibilité des différents constituants cellulaires cond
 
 Ce principe général est illustré sur les **Figures 3.16 et 3.17** où la teneur en parois est estimée en fonction de la teneur en cellulose brute.
 
-![[**Figure 3.16**](http://www.assoadada.fr/wp-content/uploads/2014/02/conseil_20-2.gif) Digestibilité de la matière organique (dMO) de différentes matières en fonction de la teneur en cellulose brute (CB).](figures/fig316.png)
+![[**Figure 3.16**](http://www.assoadada.fr/wp-content/uploads/2014/02/conseil_20-2.gif) Digestibilité de la matière organique (dMO) de différentes matières en fonction de la teneur en cellulose brute (CB).](figures/fig3.16.png)
 
-![**Figure 3.17** Digestibilité de la matière organique (dMO) chez différents types d'animaux en fonction de la teneur en cellulose brute (CB) de l'aliment.](figures/fig317.png)
+![**Figure 3.17** Digestibilité de la matière organique (dMO) chez différents types d'animaux en fonction de la teneur en cellulose brute (CB) de l'aliment.](figures/fig3.17.png)
 
 C'est grâce à la présence d'une population microbienne dense dans les pré-estomacs des ruminants et dans le gros intestin des équidés que les parois non lignifiées, et donc la matière organique des fourrages peuvent être utilisées efficacement.
 
 C'est alors la proportion de parois lignifiées qui limite la digestibilité des parois et donc celle de la matière organique. Prévoir la digestibilité des fourrages revient en définitive à prévoir leur teneur en parois indigestibles (ou indigestible pariétal).
 
-La teneur en parois, et surtout en parois lignifiées, est plus élevée dans les fourrages que dans les aliments concentrés, c'est pourquoi la digestibilité des concentrés est supérieure à celle des fourrages. Ce classement des aliments selon leur digestibilité est le même chez les ruminants et les chevaux en fonction de la teneur en parois (**Tableau 3.4**).
+La teneur en parois, et surtout en parois lignifiées, est plus élevée dans les fourrages que dans les aliments concentrés, c'est pourquoi la digestibilité des concentrés est supérieure à celle des fourrages. Ce classement des aliments selon leur digestibilité est le même chez les ruminants et les chevaux en fonction de la teneur en parois (**Tableau 3.5**).
 
-**Tableau 3.4** Digestibilité de la MO de quelques aliments chez les ruminants et les chevaux.
+**Tableau 3.5** Digestibilité de la MO de quelques aliments chez les ruminants et les chevaux.
 
-![](figures/tab34.png)
+![](figures/tab3.5.png)
 
 La digestibilité des fourrages est très variable selon l'origine botanique, le stade végétatif et les conditions de récolte. L'absence de rumination et la plus faible durée de séjour des parois végétales dans le gros intestin du cheval (24 à 48 h) par rapport à celle observée dans le rumen (48 à 72 h) expliquent en grande partie que la digestion de ces parois, donc des fourrages, est moins poussée chez les chevaux que chez les ruminants. La richesse en grains, donc en amidon, de l'ensilage de maïs lui confère une dMO équivalente chez les ruminants et les chevaux.
 
@@ -627,23 +627,23 @@ Transportés aux cellules après leur absorption, les nutriments jouent différe
 
 L'utilisation des nutriments et des métabolites se fait avec des transformations qui constituent le métabolisme. Ce dernier revêt deux aspects liés entre eux : l'**anabolisme** et le **catabolisme**.
 
->>	L'anabolisme conduit à la synthèse de substances complexes par l'organisme (rôles plastique et physiologique des nutriments) et s'accompagne de dépenses énergétiques.
+- *L'anabolisme conduit à la synthèse de substances complexes par l'organisme (rôles plastique et physiologique des nutriments) et s'accompagne de dépenses énergétiques*.
 
->>	Le catabolisme se traduit par la destruction de certaines molécules avec libération d'énergie. Cette libération d'énergie se fait surtout par oxydation (on parle de catabolisme oxydatif). Il s'agirait plutôt de déshydrogénation des substrats et d'une suite de transports d'hydrogène et d'électrons. Ces réactions peuvent se dérouler en anaérobiose. Le catabolisme laisse des déchets qui sont principalement le gaz carbonique (CO2), l'eau, l'urée et l'acide urique.
+- *Le catabolisme se traduit par la destruction de certaines molécules avec libération d'énergie. Cette libération d'énergie se fait surtout par oxydation (on parle de catabolisme oxydatif). Il s'agirait plutôt de déshydrogénation des substrats et d'une suite de transports d'hydrogène et d'électrons. Ces réactions peuvent se dérouler en anaérobiose. Le catabolisme laisse des déchets qui sont principalement le gaz carbonique (CO2), l'eau, l'urée et l'acide urique*.
 
 Une partie de l'énergie provenant du catabolisme est dépensée sous forme de chaleur, une autre partie est stockée et peut être utilisée dans les réactions de synthèse correspondant à l'anabolisme. 
 
 Ces deux types de réactions, anabolique et catabolique, sont donc étroitement liés. Par exemple, la synthèse d'un dipeptide à partir de deux acides aminés AA 
 
->> réaction d'anabolisme protéique
+> réaction d'anabolisme protéique
 
 est associée à une réaction de catabolisme énergétique 
 
->> dégradation d'une molécule d'ATP avec libération de l'énergie nécessaire à la réaction précédente
+> dégradation d'une molécule d'ATP avec libération de l'énergie nécessaire à la réaction précédente
 
 tel que schématisé à la **Figure 3.18**.
 
-![**Figure 3.18** Schématisation de la liaison entre anabolisme et catabolisme.](figures/fig318.png)
+![**Figure 3.18** Schématisation de la liaison entre anabolisme et catabolisme.](figures/fig3.18.png)
 
 ###	Utilisation des nutriments pour les productions
 

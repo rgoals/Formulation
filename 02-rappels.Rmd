@@ -38,4 +38,4 @@ La MS comprend la **matière organique** (_caractérisée par la présence d’a
 
 <img src = "figures/diag21.png" alt = "figures/diag21" width = "700" height = "500"/>
 
-**Figure 2.1** Composition des aliments selon Brocard et al (2010).
+**Figure 2.1** Composition des aliments selon Brocard et al. (2010).
