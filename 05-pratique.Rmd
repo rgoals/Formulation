@@ -98,15 +98,269 @@ Les valeurs nutritives des ingrédients à combiner existent également dans des
 
 Quelques exemples de normes nutritionnelles pour poulets de chair et poules pondeuses (**Tableaux 5.1 à 5.4**) :
 
-![**Tableau 5.1** Les normes en période de croissance de 1 à 28 jours](figures/tab5.1.png)
+**Tableau 5.1** Les normes en période de croissance de 1 à 28 jours
 
-![**Tableau 5.2** Période de finition de 29 jours à l’abattage](figures/tab5.2.png)
+![](figures/tab5.1.png)
 
-![**Tableau 5.3** Normes pour poulettes](figures/tab5.3.png)
+**Tableau 5.2** Période de finition de 29 jours à l’abattage
 
-![**Tableau 5.4** Normes pour pondeuses demi lourdes (poules rousses)](figures/tab5.4.png)
+![](figures/tab5.2.png)
 
-Mais le zootechnicien ou l'éleveur devrait pouvoir déterminer les besoins de ses animaux. Des formules de prévisions (modèles) existent. Un exemple simple : les besoins journaliers en énergie, protéines et acides aminés de la poule en période de ponte se calculent d’après les formules suivantes (Bessei, 1988) :
+**Tableau 5.3** Normes pour poulettes
+
+![](figures/tab5.3.png)
+
+**Tableau 5.4** Normes pour pondeuses demi lourdes (poules rousses)
+
+![](figures/tab5.4.png)
+
+Mais le zootechnicien ou l'éleveur devrait pouvoir déterminer les besoins de ses animaux. Des formules de prévisions (modèles) existent. Un exemple simple : les besoins journaliers en énergie, protéines et acides aminés de la poule en période de ponte se calculent d’après les formules suivantes (Bessei, 1988):
+
+- $Energie~(kJ/poule/jour) = (480 + 7 * [15 – Temp.~ambiante~(°C)]) * poids~vif~(kg^{0.75}) + 23 * GMQ~(g) + 9.6 * production~de~masse~d'oeuf~quotidienne~(g)$
+
+- $Protéines~brutes~(g/poule/jour) = 3.5 * poids~vif~(kg^{0.75}) + 0.25 * masse~d‘oeuf~quotidienne~(g)$
+
+- $Lysine~(mg/poule/jour) = 0.04 * poids~vif~(kg) + 8.6 * GMQ~(g) + 12.6 * production~de~masse~d’oeuf~quotidienne~(g)$
+
+- $Méthionine~(mg/poule/jour) = 0.037 * poids~vif~(kg) + 4.5 * GMQ~(g) + 5.4 * production~de~masse~d’oeuf~quotidienne~(g)$
+
+###	Règles générales à respecter lors de la formulation
+
+Formuler une provende (*aliment pour animaux*) consiste à combiner les différentes matières premières dont on dispose pour obtenir un mélange assurant la satisfaction des besoins de l’animal tout en garantissant le prix le plus faible par kg d’aliment composé.
+
+-	Il y a un intérêt à **utiliser un nombre important de matières premières** (de 7 à 12) pour équilibrer correctement une ration.
+
+-	Il faut **s’approcher autant que possible des besoins recommandés** pour chaque catégorie de volailles et au cours des différents périodes d’élevage, **sans gaspiller les produits qui coûtent plus cher**.
+
+-	On ne remplacera jamais une matière première par une autre sans **recalculer la composition de la provende**.
+
+-	On ne fabriquera jamais un concentré minéral vitaminé soi-même _(pourquoi !!!)_ et on respectera les normes recommandées pour l’utilisation de CMV du commerce.
+
+-	La **lysine** et la **méthionine** de synthèse sont souvent indispensables de même que les sources de **calcium** et de **phosphore**.
+
+-	L’utilisation d’**huile végétale** ou de **graisses animales** permet d’obtenir un niveau énergétique élevé dans les rations.
+
+-	Les **sons** _(riz, blé, ...)_ doivent toujours être utilisés (entre 7 et 12% de la ration) pour la régularisation du transit digestif et éviter les diarrhées et constipations.
+
+### Limites d’utilisation de certaines matières premières
+
+En raison de la présence de facteurs antinutritionnels, ou pour respecter une présentation optimale de la provende, ou parce que certains aliments confèrent des goûts à la chair et aux œufs, il est nécessaire de respecter un certain nombre de règles particulières pour l’incorporation des matières premières :
+
+-	Les **céréales** : pas de limites d’utilisation à l’exception du sorgho rouge qui renferme des **tanins** (limite de 30 à 35% dans les rations, selon la teneur en tanins) ;
+
+-	**Tourteau d’arachide** : ne pas dépasser 25% du mélange en raison de la présence d’**aflatoxine** ;
+
+-	**Tourteau de coton** : ne pas dépasser 10% du mélange en raison de la présence de **gossypol** ;
+
+-	**Tourteau de palmiste** : ne pas dépasser 20% du mélange (teneur élevée en fibres) ;
+
+-	**Farine de poisson** : ne pas dépasser 5% du mélange car elle donne son goût aux œufs et à la viande de poulet, surtout si elle est grasse ;
+
+-	**Farine basse de riz** : ne pas dépasser 40% du mélange pour limiter l’effet dépressif dû à son utilisation dans les rations ;
+
+-	**Huile végétale** et **graisses animales** : ne pas dépasser 5% du mélange pour éviter la diarrhée.
+
+**Tableau 5.5** Composants protéiques végétaux dans les aliments pour volailles, leurs propriétés et limites d’incorporation
+
+![](figures/tab5.5.png)
+
+### Démarche-type
+
+#### Exemple 1
+
+Soit 2 aliments :
+
+- X concentrant 10% MAT et 3000 kcal EM/kg
+- Y concentrant 30% MAT et 2000 kcal EM/kg
+
+Constituer un mélange de 100 kg à 20% MAT et 2500 kcal EM/kg.
+
+Les équations :
+
+- 3000 X + 2000 Y = 2500
+- 10 X + 30 Y = 20
+- X + Y = 1 (ou 100 pour 100%)
+
+Solution : 	X = Y = 0,5 (ou 50)
+
+#### Exemple 2
+
+Soit 2 aliments : 	
+
+- X concentrant 10% MAT et 3000 kcal EM/kg
+- Y concentrant 30% MAT et 2000 kcal EM/kg
+
+Constituer un mélange de 100 kg à 20% MAT et 2600 kcal EM/kg.
+
+Equations :
+
+- 10 X + 30 Y = 20
+- 3000 X + 2000 Y = 2600
+- X + Y = 1 (ou 100)
+
+Solution : normalement sans solution, alors on essaye de substituer cet ingrédient par un autre de la même catégorie et on refait les calculs !
+
+#### Exemple 3
+
+Soit 3 aliments : 
+
+- X concentrant 10% MAT et 3000 kcal EM/kg
+- Y concentrant 30% MAT et 2000 kcal EM/kg
+- Z concentrant 20% MAT et 2700 kcal EM/kg
+
+Constituer un mélange 100 kg à 20% MAT et 2600 kcal EM/kg.
+
+Equations :
+
+- 10 X + 30 Y + 20 Z = 20
+- 3000 X + 2000 Y + 2700 Z = 2600
+- X + Y + Z = 1 (ou 100)
+
+Solution : X = Y = 0,25 (ou 25) et Z = 0,50 (ou 50)
+
+**Remarques**
+
+Si le système d’équations est avec égalité stricte, alors :
+
+- Le nombre d’équations = au nombre de contraintes = au nombre d’aliments. 
+- On n’obtient pas toujours de solution ou le nombre de solutions est réduit.
+
+**Alternative :**
+
+- X + Y + Z = 1 (qui est le mélange total, 100 kg ou 100%, ...)
+- 10 X + 30 Y + 20 Z > 19 (taux de MAT qui doit être > à 19%)
+- 10 X + 30 Y + 20 Z < 21 (taux de MAT qui doit être < à 21%)
+- 3000 X + 2000 Y + 2700 Z > 2500 (teneur en énergie qui doit être > 2500 kcal EM/kg)
+- 3000 X + 2000 Y + 2700 Z < 2700 (teneur en énergie qui doit être < 2700 kcal EM/kg)
+
+**Avantages :**
+
+-	Un grand nombre de solutions pour des performances identiques
+
+-	Différentes recommandations alimentaires contre différents besoins alimentaires
+
+-	Variabilité des aliments
+
+-	Tient compte de la réalité de la production surtout la précision des pesées en usine.
+
+Solutions : 
+
+|Aliment|solution 1|solution 2|solution 3|solution 4|solution 5|...|solution X|
+|:----|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|X|0.5|0.47|0.44|0.40|0.30|...|0|
+|Y|0.5|0.43|0.36|0.30|0.20|...|0|
+|Z|0|0.10|0.20|0.30|0,50|...|1|
+|MAT|20|20.4|20.8|21|21|...|20|
+|EM|2500|2500|2500|2510|2550|...|2700|
+
+Grand nombre de solutions 😏! laquelle choisir ?
+
+-	Voir la disponibilité des aliments X, Y et Z.
+
+-	Tenir compte des limites d’incorporation (ex. Z < 0,35).
+
+-	La contrainte de fabrication : ex. N’y a-t’il pas un ou des ingredients qui provoqueront la formation de mottes, de grumeaux, ...
+
+PRIX : activité commerciale
+
+-	Au niveau du fabricant : Bénéfice = Qté x (PV – PR)
+-	Eleveur : Bénéfice = Qté produite x (PV’ – PR’); NB: ne pas s’embrouiller avec ça.
+-	PR’ fonction de PV lui même fonction de PR;	NB: ne pas s’embrouiller avec ça.
+
+La Formulation doit tenir compte du prix de revient :
+
+-	Prix de X = 100, 
+- Prix de Y = 150 
+- et Prix de Z = 200.
+
+|Aliment|solution 1|solution 2|solution 3|solution 4|solution 5|...|solution X|
+|:----|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|X|0.5|0.47|0.44|0.40|0.30|...|0|
+|Y|0.5|0.43|0.36|0.30|0.20|...|0|
+|Z|0|0.10|0.20|0.30|0,50|...|1|
+|MAT|20|20.4|20.8|21|21|...|20|
+|EM|2500|2500|2500|2510|2550|...|2700|
+|Prix|**125**|132|138|145|160|...|200|
+
+Les modification de prix sur le marché. Certains prix peuvent avoir augmenté ou diminué. On peut, si non, s’exercer à varier les prix des ingrédients :
+
+-	Prix de X précédent = 100, prix actuel 150
+- Prix de Y = 150 (inchangé)
+- et prix de Z précédent = 200, prix actuel 130.
+
+|Aliment|solution 1|solution 2|solution 3|solution 4|solution 5|...|solution X|
+|:----|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|X|0.5|0.47|0.44|0.40|0.30|...|0|
+|Y|0.5|0.43|0.36|0.30|0.20|...|0|
+|Z|0|0.10|0.20|0.30|0,50|...|1|
+|MAT|20|20.4|20.8|21|21|...|20|
+|EM|2500|2500|2500|2510|2550|...|2700|
+|Prix|**150**|148|146|144|**140**|...|**130**|
+
+Ainsi la formulation pour un **prix minimum** :
+
+> Equation prix de la formule
+
+- 150 X + 150 Y + 130 Z = minimum (équation objective)
+
+> Equations des recommandations alimentaires
+
+- 10 X + 30 Y + 20 Z > 19
+- 10 X + 30 Y + 20 Z < 21
+- 3000 X + 2000 Y + 2700 Z > 2500
+- 3000 X + 2000 Y + 2700 Z < 2700
+
+> Equations des contraintes technologiques
+
+- X + Y + Z = 1
+- X > 0,20
+- Z < 0,50
+- etc.
+
+Plus le nombre d'équations s'accroit, il devient nécessaire d’utiliser un programme de formulation. Plusieurs logiciels existent souvent libres en ligne. La résolution est ausi possible sur feuille de calcul Excel avec le Solveur par la programmation linéaire. La programmation linéaire est la recherche de l’extremum (maximum ou minimum) d’une fonction linéaire sous un ensemble de contraintes linéaires.
+
+L'extremum ici est le prix de revient minimum de la formule. Il est fonction du prix des ingrédients et	de leur taux d’incorporation dans la formule alimentaire.
+
+Les contraintes sont les recommandations nutritionnelles, les taux d’incorporation, ...
+
+##	Préparation du mélange
+
+La préparation des aliments dans l’exploitation est réalisée en plusieurs étapes :
+
+-	la pesée des matières premières : elle doit être précise.
+
+- la	mouture : les matières premières fines (particules de 0.1 à 1.5 mm) peuvent être incorporés telles quelles dans le mélange (phosphore, craie, lysine, méthionine, CMV, sons, ...), les autres élements de la ration (céréales, tourteaux, ...) doivent être broyés avant d’être mélangés pour obtenir des particules grossières de 0.5 à 1.5 mm.
+
+-	le pré-mélange : il consiste à mélanger toutes les matières premières que l’on doit incorporer en faibles quantités avec une partie des céréales moulues de manière à mieux les répartir dans le mélange final. Le pré mélange peut être réalisé simplement dans des bassines ou dans un tonneau désaxé mis en mouvement au mayen d’une manivelle (exemple : craie, phosphore, lysine, méthionine, CMV + une partie du mais).
+
+-	le mélange : le pré-mélange est incorporé progressivement au reste des matières premières à l’aide d’un mélangeur (mélangeur subhorizontal, vertical, tonneau désaxé, ...) ou à la pelle sur surface bétonnée.
+
+-	l'incorporation d’huile est réalisée en dernier lieu. Elle se fait progressivement et après un certain temps de mélange pour éviter la formation de petites boulettes.
+
+##	Conseils pratiques
+
+-	Utiliser toujours des matières premières de bonne qualité (éviter moisissures, terre, corps étrangers, …).
+
+-	Peser correctement les matières premières.
+
+-	Vérifier s’il n’y a pas de pertes au niveau du broyage, sinon réaliser la pesée des matières premières après mouture.
+
+-	Eviter les pertes au niveau des pré-mélanges.
+
+-	Incorporer progressivement le pré-mélange dans le mélange.
+
+-	Incorporer en dernier lieu les matières grasses, de manière progressive et après avoir mélangé le reste pendant 10 minutes au moins.
+
+-	Respecter les temps de mélange recommandés par les fabricants de mélangeurs (de 20 à 30 min.).
+
+-	Vérifier la bonne répartition des ingrédients après avoir réalisé le mélange.
+
+-	Utiliser toujours une main-d’œuvre qualifiée et expérimentée pour la préparation des aliments.
+
+-	Lors de la fabrication, éviter la propagation des maladies d’un bâtiment à l’autre (grandes exploitations) par l’intermédiaire des sacs réutilisés : marquage et utilisation des sacs par bâtiment.
+
+-	Pour la même raison, utiliser des sacs neufs pour les provendes et les remplacer régulièrement.
+
 
 
 
