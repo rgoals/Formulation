@@ -2,28 +2,39 @@
 
 Les animaux se caractérisent par 5 catégories de besoins différents qui doivent être couverts par l’alimentation : 
 
-- les besoins en **énergie**, 
-- les besoins **matières azotées**, 
-- les besoins en **minéraux**, 
+- les besoins en **énergie**,
+
+- les besoins **matières azotées**,
+
+- les besoins en **minéraux**,
+
 - les besoins en **vitamines** et
+
 - le besoin en **eau**. 
 
 Les aliments doivent apporter à l'animal tous les constituants nécessaires au bon fonctionnement de l'organisme et à la réalisation des productions qui peuvent être :
 
-- du travail, 
-- de la croissance (croît), 
-- de la viande, 
-- un ou des fœtus, 
-- du lait, 
+- du travail,
+
+- de la croissance (croît),
+
+- de la viande,
+
+- un ou des fœtus,
+
+- du lait,
+
 - des œufs, etc.
 
-L'ajustement des apports alimentaires peut être quotidien mais certaines rations peuvent aussi couvrir les besoins d’une période bien plus longue comme il est le cas avec les carnivores au zoo. Cette possibilité dépend à la fois de la nature de la dépense et des caractéristiques des animaux.
+L'ajustement des apports alimentaires peut être quotidien mais certaines rations peuvent aussi couvrir les besoins d’une période bien plus longue comme chez les carnivores au zoo. Cette possibilité dépend à la fois de la nature de la dépense et des caractéristiques des animaux.
 
 La détermination des besoins nutritionnels des animaux tient compte de critères tels que :
 
-- l’espèce, 
-- la génétique, 
-- le stade physiologique, 
+- l’espèce,
+
+- la génétique,
+
+- le stade physiologique.
 
 Il faut ensuite adapter ces besoins en fonction des performances obtenues.
 
@@ -31,9 +42,10 @@ Il faut ensuite adapter ces besoins en fonction des performances obtenues.
 
 ### Les	dépenses d'entretien
 
-Les activités de l'organisme animal sont à l'origine d'une dépense en éléments nutritifs. **Les dépenses d'entretien correspondent à la possibilité pour l’animal de se maintenir en vie, sans variation de poids et sans production d'aucune nature**. Ce sont,
+Les activités de l'organisme animal sont à l'origine d'une dépense en éléments nutritifs. **Les dépenses d'entretien correspondent à la possibilité pour l’animal de se maintenir en vie, sans variation de poids et sans production d'aucune nature**. Ce sont :
 
 -	d'une part, les dépenses dues au fonctionnement de base de l'organisme, et
+
 -	d'autre part, les dépenses supplémentaires liées aux conditions de vie (station debout, en déplacement, ...).
 
 ### Les	dépenses de production
@@ -44,11 +56,16 @@ Les activités de l'organisme animal sont à l'origine d'une dépense en éléme
 
 Le lait synthétisé dans la mamelle contient en moyenne par kg :
 
--	871 g d'eau ; 
--	129 g de matière sèche comprenant 48 g de lactose (glucide), 40 g de matières grasses (lipides), 
--	33,5 g de matières azotées, 
-- 7,5 g de matières minérales, dont 1,25 g de calcium, 
--	0,95 g de phosphore, 
+-	871 g d'eau,
+
+-	129 g de matière sèche comprenant 48 g de lactose (glucide), 40 g de matières grasses (lipides),
+
+-	33,5 g de matières azotées,
+
+- 7,5 g de matières minérales, dont 1,25 g de calcium,
+
+-	0,95 g de phosphore,
+
 - et des vitamines et substances diverses à l'état de traces.
 
 Pour cela, la vache a effectué des dépenses en matériaux et en énergie (*en d'autres termes, elle a utilisé des produits finaux de la digestion*), expliqué en ce qui suit :
@@ -58,7 +75,9 @@ Pour cela, la vache a effectué des dépenses en matériaux et en énergie (*en 
 Les constituants organiques du lait sont, dans leur quasi-totalité, synthétisés par la mamelle à partir d'éléments prélevés dans le sang : glucose, acétate, acides gras longs, acides aminés, etc. Pour être plus précis :
 
 -	le lactose est synthétisé à partir du glucose prélevé dans le sanguin ;
+
 -	les protéines du lait (*caséines, lactoglobulines, lactalbumines*) sont synthétisées à partir des acides aminés ;
+
 -	les graisses du lait sont élaborées en partie à partir des AG longs véhiculés par le sang et inclus sans modification importante dans la matière grasse du lait, et en partie à partir de l'acétate et du β-hydroxybutyrate provenant directement ou indirectement des fermentations du rumen. Dans ce dernier cas, la mamelle réalise des synthèses qui conduisent à la production d'AG à chaînes plus courtes (8 à 14 atomes de carbone).
 
 Les minéraux et les vitamines sont extraits du sang et inclus dans le lait sans transformation ni synthèse.
@@ -75,9 +94,9 @@ Le sang ne contenant pas de galactose, les cellules sécrétrices doivent donc a
 
 Ces synthèses sont, sous la dépendance d'hormones catalysées par des enzymes, elles ne peuvent avoir lieu sans énergie. En effet, toute activité cellulaire s'accompagne d'une consommation d'énergie provenant de la combustion d'un élément (ou constituant) organique (constituant de la matière organique). Ainsi, la réaction de synthèse précédente (équation 3.1) peut être réalisée par les cellules sécrétrices grâce à l'énergie libérée lors de la combustion d'une molécule de glucose. Globalement, cette réaction de combustion peut s'écrire (**équation 4.2**) :
 
-$$C6H12O6 + 6 O2 ====> 6 CO2 + 6 H2O + énergie$$
+$$C_6H_{12}O_6 + 6 O_2 ====> 6 CO_2 + 6 H_2O + énergie$$
 
-En fait, au niveau cellulaire, la réaction de combustion (réaction d'oxydation) est fragmentée en étapes successives. Cela permet une lente libération de l'énergie. La fourniture de l'oxygène nécessaire à la réaction d'oxydation et l'élimination des produits de déchets (CO2 et H2O) sont assurés par la respiration.
+En fait, au niveau cellulaire, la réaction de combustion (réaction d'oxydation) est fragmentée en étapes successives. Cela permet une lente libération de l'énergie. La fourniture de l'oxygène nécessaire à la réaction d'oxydation et l'élimination des produits de déchets ($CO_2$ et $H_2O$) sont assurés par la respiration.
 
 L'énergie nécessaire peut provenir d'un élément (constituant) glucidique, lipidique ou protidique, qui peuvent en effet subir une oxydation au niveau cellulaire. Aux dépenses en matériaux s'ajoute donc une dépense en énergie.
 

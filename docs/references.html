@@ -24,7 +24,7 @@
 <meta name="author" content="Zonlehoua Coulibali, Agronome, PhD." />
 
 
-<meta name="date" content="2020-07-17" />
+<meta name="date" content="2020-10-28" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -70,17 +70,20 @@
 
 <li class="divider"></li>
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Objectifs du cours</a></li>
-<li class="chapter" data-level="2" data-path="rappels.html"><a href="rappels.html"><i class="fa fa-check"></i><b>2</b> Rappels sur les aliments</a></li>
-<li class="chapter" data-level="3" data-path="digestion.html"><a href="digestion.html"><i class="fa fa-check"></i><b>3</b> Digestion des aliments</a></li>
+<li class="chapter" data-level="2" data-path="rappels.html"><a href="rappels.html"><i class="fa fa-check"></i><b>2</b> Rappels sur les aliments</a><ul>
+<li class="chapter" data-level="2.1" data-path="rappels.html"><a href="rappels.html#compositon-des-aliments"><i class="fa fa-check"></i><b>2.1</b> Compositon des aliments</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="digestion.html"><a href="digestion.html"><i class="fa fa-check"></i><b>3</b> Digestion des aliments</a><ul>
+<li class="chapter" data-level="3.1" data-path="digestion.html"><a href="digestion.html#lutilisation-digestive-des-aliments"><i class="fa fa-check"></i><b>3.1</b> L’utilisation digestive des aliments</a></li>
+</ul></li>
 <li class="chapter" data-level="4" data-path="expression.html"><a href="expression.html"><i class="fa fa-check"></i><b>4</b> Expression des besoins des animaux et des apports de la ration</a><ul>
-<li class="chapter" data-level="4.1" data-path="expression.html"><a href="expression.html#example-one"><i class="fa fa-check"></i><b>4.1</b> Example one</a></li>
-<li class="chapter" data-level="4.2" data-path="expression.html"><a href="expression.html#example-two"><i class="fa fa-check"></i><b>4.2</b> Example two</a></li>
+<li class="chapter" data-level="4.0.1" data-path="expression.html"><a href="expression.html#les-dépenses-dentretien"><i class="fa fa-check"></i><b>4.0.1</b> Les dépenses d’entretien</a></li>
+<li class="chapter" data-level="4.0.2" data-path="expression.html"><a href="expression.html#les-dépenses-de-production"><i class="fa fa-check"></i><b>4.0.2</b> Les dépenses de production</a></li>
+<li class="chapter" data-level="4.1" data-path="expression.html"><a href="expression.html#expression-des-besoins-et-des-apports-en-matières-azotées"><i class="fa fa-check"></i><b>4.1</b> Expression des besoins et des apports en matières azotées</a><ul>
+<li class="chapter" data-level="4.1.1" data-path="expression.html"><a href="expression.html#la-complémentation-azotée-des-rations-dans-le-système-pdi"><i class="fa fa-check"></i><b>4.1.1</b> La complémentation azotée des rations dans le système <span class="math inline">\(PDI\)</span></a></li>
 </ul></li>
-<li class="chapter" data-level="5" data-path="pratique.html"><a href="pratique.html"><i class="fa fa-check"></i><b>5</b> Pratique de la formulation</a><ul>
-<li class="chapter" data-level="5.1" data-path="pratique.html"><a href="pratique.html#gh"><i class="fa fa-check"></i><b>5.1</b> gh</a></li>
-<li class="chapter" data-level="5.2" data-path="pratique.html"><a href="pratique.html#kf"><i class="fa fa-check"></i><b>5.2</b> kf</a></li>
-<li class="chapter" data-level="5.3" data-path="pratique.html"><a href="pratique.html#ld"><i class="fa fa-check"></i><b>5.3</b> ld</a></li>
 </ul></li>
+<li class="chapter" data-level="5" data-path="pratique.html"><a href="pratique.html"><i class="fa fa-check"></i><b>5</b> Pratique de la formulation</a></li>
 <li class="chapter" data-level="6" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i><b>6</b> Références</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -104,7 +107,6 @@
             <section class="normal" id="section-">
 <div id="references" class="section level1">
 <h1><span class="header-section-number">Chapitre 6</span> Références</h1>
-<p><code>{r, fig21-composition, fig.height = 10, fig.width = 5, out.width = "100%", fig.align = "center", warning = FALSE, message = FALSE, fig.cap = "Composition des aliments selon Brocard et al (2010).", echo = FALSE}</code></p>
 
 </div>
             </section>
@@ -163,6 +165,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>

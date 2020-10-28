@@ -24,7 +24,6 @@
 <meta name="author" content="Zonlehoua Coulibali, Agronome, PhD." />
 
 
-<meta name="date" content="2020-07-24" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -86,6 +85,12 @@
 <li class="chapter" data-level="5" data-path="pratique.html"><a href="pratique.html"><i class="fa fa-check"></i><b>5</b> Pratique de la formulation</a><ul>
 <li class="chapter" data-level="5.1" data-path="pratique.html"><a href="pratique.html#principe-général"><i class="fa fa-check"></i><b>5.1</b> Principe général</a></li>
 <li class="chapter" data-level="5.2" data-path="pratique.html"><a href="pratique.html#la-notion-de-besoin"><i class="fa fa-check"></i><b>5.2</b> La notion de besoin</a></li>
+<li class="chapter" data-level="5.3" data-path="pratique.html"><a href="pratique.html#la-formulation-à-moindre-coût"><i class="fa fa-check"></i><b>5.3</b> La formulation à moindre coût</a></li>
+<li class="chapter" data-level="5.4" data-path="pratique.html"><a href="pratique.html#démarche-type-de-détermination-des-besoins-et-des-apports-cas-des-volailles"><i class="fa fa-check"></i><b>5.4</b> Démarche-type de détermination des besoins et des apports : cas des volailles</a><ul>
+<li class="chapter" data-level="5.4.1" data-path="pratique.html"><a href="pratique.html#les-principales-matières-premières-et-les-gammes-daliments-complets"><i class="fa fa-check"></i><b>5.4.1</b> Les principales matières premières et les gammes d’aliments complets</a></li>
+<li class="chapter" data-level="5.4.2" data-path="pratique.html"><a href="pratique.html#léquilibre-alimentaire"><i class="fa fa-check"></i><b>5.4.2</b> L’équilibre alimentaire</a></li>
+<li class="chapter" data-level="5.4.3" data-path="pratique.html"><a href="pratique.html#besoins-et-normes-nutritionnelles"><i class="fa fa-check"></i><b>5.4.3</b> Besoins et normes nutritionnelles</a></li>
+</ul></li>
 </ul></li>
 <li class="chapter" data-level="6" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i><b>6</b> Références</a></li>
 <li class="divider"></li>
@@ -125,7 +130,91 @@
 </div>
 <p>La pente de la droite exprime l’inverse du besoin de production. L’intersection de la droite avec l’axe des abscisses représente le besoin d’entretien. Ce peut être la quantité de lysine nécessaire pour produire 1 g d’œuf, ou la quantité journalière nécessaire à l’entretien de 1 kg de poids vif.</p>
 <p>Le besoin peut être autre que le gain de poids, la variable peut être l’indice de consommation, ou la masse corporelle non lipidique, ou la quantité de viande de la carcasse, …, ou un critère économique tel que la marge (recettes – charges). Un besoin fait toujours référence à un objectif.</p>
+</div>
+<div id="la-formulation-à-moindre-coût" class="section level2">
+<h2><span class="header-section-number">5.3</span> La formulation à moindre coût</h2>
+<p>Plusieurs méthodes d’optimisation existent mais la plus répandue demeure la programmation linéaire. Si l’on dispose d’un ensemble de <strong>n</strong> matières premières : <span class="math inline">\(M_1\)</span>, <span class="math inline">\(M_2\)</span>, …, <span class="math inline">\(M_i\)</span>, …, <span class="math inline">\(M_n\)</span>, il s’agit de déterminer leur taux d’incorporation <span class="math inline">\(x_1\)</span>, <span class="math inline">\(x_2\)</span>, …, <span class="math inline">\(x_i\)</span>, …, <span class="math inline">\(x_n\)</span>, de façon à satisfaire plusieurs objectifs dont :</p>
+<ul>
+<li>le respect d’un certain nombre de conditions appellées contraintes de formulation, d’ordre nutritionnel, technologique ou commercial. Il s’agit soit de teneure en nutriments (<em>ex. teneur en protéines</em>), soit de limites d’incorporation d’ingrédient dues à la toxicité ou à l’inappétence.</li>
+</ul>
+<p>Ainsi, on peut être conduit à limiter l’introduction de certaines matières premières, ou au contraire à en imposer un minimum, de façon à assurer, par exemple, la solidité des granules ou la conservation des mélanges. On peut aussi être amené à limiter les taux d’incorporation de produits peu abondants sur le marché ou ceux pour lesquels on ne dispose pas de moyens de stockage suffisants, etc.</p>
+<p>Ces contraintes sont de la forme :</p>
+<p><span class="math display">\[\sum_{i=1}^{n} a_{ij} * x_{ij} ≥ A_j\]</span></p>
+<p>ou</p>
+<p><span class="math display">\[\sum_{i=1}^{n} a_{ij} * x_{ij} ≤ A_j\]</span></p>
+<p>pour la caractéristique <strong>j</strong> fixée, où <span class="math inline">\(a_{ij}\)</span> est le coefficient technique représentant la quantité du nutriment <strong>j</strong> présente dans la matière <strong>i</strong> et <span class="math inline">\(A_j\)</span> est le besoin exprimé en concentration dans l’aliment.</p>
+<p>Les contraintes d’incorporation sont de la forme <span class="math inline">\(x_i ≥ L_{inc}\)</span> ou bien <span class="math inline">\(x_i ≤ L_{inc}\)</span>, où <span class="math inline">\(L_{inc}\)</span> est la limite d’incorporation de la matière première <strong>i</strong>.</p>
+<ul>
+<li>Il faut ensuite minimizer le prix <strong>C</strong> (<em>le Coût</em>) du mélange. Si <span class="math inline">\(c_1\)</span>, <span class="math inline">\(c_2\)</span>, …, <span class="math inline">\(c_i\)</span>, …, <span class="math inline">\(c_n\)</span> sont les prix des matières premières par unité de poids, on doit satisfaire à la relation :</li>
+</ul>
+<p><span class="math display">\[\sum_{i=1}^{n} c_{i} * x_{i} = C\]</span></p>
+<ul>
+<li>Enfin, par définition,
+<span class="math display">\[0 &lt; x_i &lt; Q\]</span>
+et
+<span class="math display">\[\sum_{i=1}^{n} x_{i} = Q\]</span></li>
+</ul>
+<p>Il existe des logiciels capables de resoudre ce type de problèmes. La plupart ne cherche qu’à minimiser le prix du kg d’aliment, d’autres le prix de la calorie. La capacité des matrices liées au nombre de matières premières et de contraintes, détermine le choix du logiciel. En plus du calcul pour déteminer les quantités <span class="math inline">\(x_i\)</span>, le nutritionniste est souvent amené à affectuer des calculs intermédiaires pour améliorer sa démarche. <strong>Nous prendrons la volaille comme exemple.</strong></p>
+</div>
+<div id="démarche-type-de-détermination-des-besoins-et-des-apports-cas-des-volailles" class="section level2">
+<h2><span class="header-section-number">5.4</span> Démarche-type de détermination des besoins et des apports : cas des volailles</h2>
+<div id="les-principales-matières-premières-et-les-gammes-daliments-complets" class="section level3">
+<h3><span class="header-section-number">5.4.1</span> Les principales matières premières et les gammes d’aliments complets</h3>
+<p>Pour les élevages avicoles industriels, l’aliment distribué est un aliment composé complet fabriqué dans des usines spécialisées. En général, ces aliments sont à base de céréales <em>(maïs surtout, orge, sorgho, issues de céréales)</em>, tourteaux d’oléagineux <em>(soja et tournesol)</em>, farine de poisson, minéraux et premix <em>(minéraux et vitamines)</em>.</p>
+<p>Les différentes gammes d’aliments fabriqués sont fonction du type de production :</p>
+<ul>
+<li><p>Les poulets de chair : aliments démarrage, croissance et finition</p></li>
+<li><p>Les poules pondeuses d’oeufs de consommation et les poules reproductrices : aliments poulette démarrage, poulette élevage et pondeuse ou reproductrice, aliment reforme, …</p></li>
+<li><p>Dindes : aliments démarrage, croissance et finition 1 et 2</p></li>
+<li><p>etc.</p></li>
+</ul>
+</div>
+<div id="léquilibre-alimentaire" class="section level3">
+<h3><span class="header-section-number">5.4.2</span> L’équilibre alimentaire</h3>
+<p>Les matières premières utilisées en alimentation des volailles peuvent se classer en 3 catégories :</p>
+<ul>
+<li><p>les premières appartiennent au groupe « énergie » et comprennent, outre les céréales, quelques racines et tubercules, mais aussi des sous-produits industriels de meuneries (sons et farines basses essentiellement pour ce qui concerne l’Afrique subsaharienne).</p></li>
+<li><p>Le deuxième groupe de matières premières alimentaires est le groupe protéines ou matières azotées. Il rassemble les tourteaux (sous-produits des huileries) et les farines de poissons fabriqués localement.</p></li>
+<li><p>Enfin, les minéraux, les vitamines et un ensemble d’additifs.</p></li>
+</ul>
+<p>Le maïs représente la céréale de choix pour l’alimentation des volailles. Sa valeur énergétique est très élevée et son amidon a une digestibilité élevée.</p>
+</div>
+<div id="besoins-et-normes-nutritionnelles" class="section level3">
+<h3><span class="header-section-number">5.4.3</span> Besoins et normes nutritionnelles</h3>
+<p>Pour nourrir correctement les volailles, « le formulateur » a besoin de connaître :</p>
+<ul>
+<li><p>le type de production dont il s’agit,</p></li>
+<li><p>les conditions d’élevage des animaux,</p></li>
+<li><p>et surtout, la composition des matières premières alimentaires utilisées pour composer l’aliment complet.</p></li>
+</ul>
+<p>La notion de besoins nutritionnels découle naturellement de celle des besoins des animaux.
+L’aliment est un mélange de matières premières énergétiques et azotées pour l’essentiel. Viennent s’y rajouter des additifs variables selon les espèces. Le formulateur doit respecter un certain nombre de contraintes.</p>
+<p>Ces contraintes nutritionnelles ont dejà été estimées par plusieurs travaux de recherche, souvent proposées par le créateur de la souche (maisons de sélection).</p>
+<p>Les valeurs nutritives des ingrédients à combiner existent également dans des tables comme celle de l’INRA (<strong>Figure 5.2</strong>). Il faut spécialement et seulement veiller à exprimer bésoins nutritionnels des animaux et valeurs nutritives des aliments dans les mêmes unités.</p>
+<div class="figure">
+<img src="figures/fig5.2.png" alt="Figure 5.2 Capture de titre des tables INRA" />
+<p class="caption"><strong>Figure 5.2</strong> Capture de titre des tables INRA</p>
+</div>
+<p>Quelques exemples de normes nutritionnelles pour poulets de chair et poules pondeuses (<strong>Tableaux 5.1 à 5.4</strong>) :</p>
+<div class="figure">
+<img src="figures/tab5.1.png" alt="Tableau 5.1 Les normes en période de croissance de 1 à 28 jours" />
+<p class="caption"><strong>Tableau 5.1</strong> Les normes en période de croissance de 1 à 28 jours</p>
+</div>
+<div class="figure">
+<img src="figures/tab5.2.png" alt="Tableau 5.2 Période de finition de 29 jours à l’abattage" />
+<p class="caption"><strong>Tableau 5.2</strong> Période de finition de 29 jours à l’abattage</p>
+</div>
+<div class="figure">
+<img src="figures/tab5.3.png" alt="Tableau 5.3 Normes pour poulettes" />
+<p class="caption"><strong>Tableau 5.3</strong> Normes pour poulettes</p>
+</div>
+<div class="figure">
+<img src="figures/tab5.4.png" alt="Tableau 5.4 Normes pour pondeuses demi lourdes (poules rousses)" />
+<p class="caption"><strong>Tableau 5.4</strong> Normes pour pondeuses demi lourdes (poules rousses)</p>
+</div>
+<p>Mais le zootechnicien ou l’éleveur devrait pouvoir déterminer les besoins de ses animaux. Des formules de prévisions (modèles) existent. Un exemple simple : les besoins journaliers en énergie, protéines et acides aminés de la poule en période de ponte se calculent d’après les formules suivantes (Bessei, 1988) :</p>
 
+</div>
 </div>
 </div>
             </section>
