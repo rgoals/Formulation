@@ -306,7 +306,7 @@ La consommation du cheval de selle de $550~kg$, exprimée en litre d'O2/mn, s'ac
 
 $$Quantité~d’O2~(en~litre/mn) = 3,78 + 0,097 * vitesse~(en~m/mn)$$
 
-Ce même cheval au repos consomme $1,65~litres~d'O2/mn$. La dépense énergétique est calculée à partir de la consommation d'O2 pendant et après l'effort (*exemple ultérieurement !*). Après un effort, on enregistre une forte consommation appelée dette en O2, due au métabolisme du lactate produit par le muscle en état d'anaérobiose au moment de l'effort.
+Ce même cheval au repos consomme $1,65~litres~d'O_2/mn$. La dépense énergétique est calculée à partir de la consommation d'$O_2$ pendant et après l'effort (*exemple ultérieurement !*). Après un effort, on enregistre une forte consommation appelée dette en $O_2$, due au métabolisme du lactate produit par le muscle en état d'anaérobiose au moment de l'effort.
 
 ###	L’extra-chaleur
 
