@@ -14,13 +14,13 @@ description: "Notes du cours de formulation, format gitbook."
 
 L’intérêt de la formulation des aliments pour animaux tient à l’adaptation permanente de leur composition à des contraintes variées et évolutives, à l’ajustement du pourcentage de chaque composante en fonction du contexte technique et des besoins des animaux. La formulation tient aussi compte de l'évolution du coût des matières premières.
 
-Le cours est conçu avec pour objectif de guider l’apprenant dans la construction, l’acquisition des compétences nécessaires à l'exercice d'un emploi ou assumer la responsabilité de formulateur de régimes alimentaires pour animaux d’élevage au compte d’un éleveur, d’un industriel ou à titre personnel.
+Le cours est conçu avec pour objectif de guider l’apprenant dans la construction des connaissances et l’acquisition des compétences nécessaires à l'exercice d'un emploi ou assumer la responsabilité de formulateur de régimes alimentaires pour animaux d’élevage au compte d’un éleveur, d’un industriel ou à titre personnel.
 
-Avant de concocter des recttes alimentaires proprement dites, la connaissance d’un ensemble de concepts théoriques liés à la discipline est présentée de façon assez simplifiée, invitant l’apprenant à plus d’aproffondissement dans une revue bibliographique proposée. 
+Avant de concocter des recttes alimentaires proprement dites, la connaissance d’un ensemble de concepts théoriques liés à la discipline est présentée de façon assez simplifiée, invitant l’apprenant à plus d’aproffondissement dans une revue bibliographique proposée, puis dans le travail personnel. 
 
 De façon spécifique, tout apprenant au sortir de ce cours devait être à mesure (entre autres) :
 
--	de se rappeler les différentes matières premières utilisables en alimentation animale et les nutriments principaux apportés à la ration (cours de bromatologie) ;
+-	de se rappeler les différentes matières premières utilisables en alimentation animale et les nutriments principaux apportés à la ration (cours de **Bromatologie**) ;
 
 -	de connaître la physiologie de la digestion chez les monogastriques et les ruminants ;
 
@@ -28,15 +28,15 @@ De façon spécifique, tout apprenant au sortir de ce cours devait être à mesu
 
 -	d’expliquer les formes d’expression des besoins des animaux et des apports de la ration ;
 
--	de catégoriser ces notions selon les caractéristiques de l’animal : l’espèce, son stade physiologique, le type d’élevage, le type de production attendu, … ;
+-	de catégoriser ces notions selon les caractéristiques de l’animal : l’espèce, son stade physiologique, le type d’élevage, le type de production attendu, ... ;
 
--	de calculer un régime alimentaire équilibré pour animaux d’élevage ;
+-	de produire un régime alimentaire équilibré pour animaux d’élevage ;
 
 -	etc.
 
 En d’autres termes, l’apprenant devrait être à mesure de comprendre les bases scientifiques de la formulation, c’est-à-dire les matières premières utilisées dans l’alimentation et la théorie des modèles de recommandations dans la conduite de l’alimention animale.
 
-_La version du document sera régulièrement actualisée_.
+_Ce document sera régulièrement actualisé et rendu disponible en ligne_.
 
 
 **TABLE DES MATIÈRES**
@@ -51,4 +51,4 @@ _La version du document sera régulièrement actualisée_.
 
 [**Chapitre 5.**](https://rgoals.github.io/formulation/pratique.html) Pratique de la formulation
 
-[**Références bibliographiques**](https://rgoals.github.io/formulation/references.html)
+[**Chapitre 6.**](https://rgoals.github.io/formulation/references.html) Références bibliographiques
