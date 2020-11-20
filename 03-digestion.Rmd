@@ -121,7 +121,7 @@ L'action simultanée de la bile et des lipases pancréatique et intestinale sur 
 
 > Les protides
 
-Les enzymes protéolytiques du pancréas (*trypsine et chymotrypsine*) attaquent les grosses molécules de protéines en donnant un mélange composé d'une petite quantité d'_acides aminés_ libres et d'une grande quantité de petits peptides (_2 à 6 acides aminés_). **Les peptidases d'origine intestinale complètent l'hydrolyse des peptides en acides aminés libres**.
+Les **enzymes protéolytiques** du pancréas (*trypsine et chymotrypsine*) attaquent les grosses molécules de protéines en donnant un mélange composé d'une petite quantité d'_acides aminés_ libres et d'une grande quantité de petits peptides (_2 à 6 acides aminés_). **Les peptidases d'origine intestinale complètent l'hydrolyse des peptides en acides aminés libres**.
 
 ####	La digestion dans le gros intestin
 
@@ -141,11 +141,11 @@ Les sites de déversement et les activités enzymatiques sont tels que la dégra
 
 Chez le porc, la digestion allie :
 
--	des phénomènes mécaniques dans la cavité buccale, mais aussi dans l'ensemble du tube digestif ;
+-	des **phénomènes mécaniques** dans la cavité buccale, mais aussi dans l'ensemble du tube digestif ;
 
--	des phénomènes enzymatiques qui sont les plus importants et se déroulent pour l'essentiel dans l'intestin grêle grâce à un complexe enzymatique provenant du pancréas et de la muqueuse intestinale. La bile joue un rôle important dans la digestion des lipides ;
+-	des **phénomènes enzymatiques** qui sont les plus importants et se déroulent pour l'essentiel dans l'intestin grêle grâce à un complexe enzymatique provenant du pancréas et de la muqueuse intestinale. La bile joue un rôle important dans la digestion des lipides ;
 
--	des phénomènes fermentaires microbiens dans le gros intestin. Leur importance est relativement faible, ils fournissent des vitamines B ne suffisant pas à couvrir les besoins, et des acides gras volatils représentant 5 à 12% de l'énergie digestible.
+-	des **phénomènes fermentaires microbiens** dans le gros intestin. Leur importance est relativement faible, ils fournissent des vitamines B ne suffisant pas à couvrir les besoins, et des acides gras volatils représentant **5** à **12%** de l'**énergie digestible**.
 
 **Aucune absorption notable d'acides aminés microbiens n'est connue, si bien que le porc est tributaire de la qualité des protéines alimentaires**.
 
@@ -153,7 +153,7 @@ Le nutriment énergétique essentiel est le glucose, les nutriments azotés sont
 
 ###	Particularités de la digestion chez le lapin
 
-Chez un lapin adulte, le tube digestif a une longueur totale d'environ 5 mètres. L’estomac est une poche relativement volumineuse formant un réservoir et contenant environ 100 à 150 g d'aliments plus ou moins pâteux. L'intestin grêle est long d'environ 3 m pour un diamètre de 0,8 à 1 cm. Son contenu relatif est assez faible. Il débouche à la base du cæcum dont la capacité est voisine de celle de l'estomac. Ces deux réservoirs (*estomac et caecum*) contiennent à eux seuls 80% du contenu digestif sec total.
+Chez un lapin adulte, le tube digestif a une longueur totale d'environ $5~m$. L’estomac est une poche relativement volumineuse formant un réservoir et contenant environ $100~à~150~g$ d'aliments plus ou moins pâteux. L'intestin grêle est long d'environ $3~m$ pour un diamètre de $0,8~à~1~cm$. Son contenu relatif est assez faible. Il débouche à la base du cæcum dont la capacité est voisine de celle de l'estomac. Ces deux réservoirs (*estomac et caecum*) contiennent à eux seuls 80% du contenu digestif sec total.
 
 Le cæcum est un lieu de passage et de séjour obligés pour les aliments et héberge une microflore très dense constituée essentiellement de **bactéries cellulolytiques**.
 
@@ -199,9 +199,12 @@ En allongeant le temps de séjour des particules fines dans le cæcum, la cœcot
 
 La cœcotrophie est peu efficace pour améliorer la digestibilité des glucides pariétaux, puisque le recyclage des particules grossières est limité et que, contrairement aux ruminants, le transit digestif est d'autant plus rapide que les aliments sont plus riches en constituants pariétaux. Ainsi, la digestibilité de la cellulose brute n'est que de 20 à 40%.
 
-Lorsque les particules alimentaires sont trop fines et/ou trop digestibles, 
+Lorsque les particules alimentaires sont trop fines et/ou trop digestibles,
+
 - le reflux vers le cæcum fonctionne au maximum 
+
 - le transit digestif est très ralenti
+
 - l’équilibre de la microflore cœcale se modifie, 
 
 ce qui peut entraîner des troubles digestifs graves : diarrhées, entérotoxémies. 
@@ -233,7 +236,9 @@ L'ingestion des cœcotrophes permet un recyclage des corps microbiens (*environ 
 On estime que l'ingestion des cœcotrophes apporte au lapin adulte par jour :
 
 -	5 à 7 g de protéines couvrant 20% de ses besoins, 
--	une quantité d'énergie correspondant à 10% du métabolisme basal 
+
+-	une quantité d'énergie correspondant à 10% du métabolisme basal, 
+
 -	et 45 g d'eau.
 
 Cependant, dans les conditions d'élevage intensif d'animaux à besoins importants et bien alimentés, l'intérêt nutritionnel de la cœcotrophie reste limité.
