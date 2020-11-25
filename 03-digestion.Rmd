@@ -1,4 +1,4 @@
-# Digestion des aliments {#digestion}
+# Digestion des aliments{#digestion}
 
 La grande partie des composés organiques des aliments est sous forme de grosses molécules qui doivent être fragmentées en éléments plus simples susceptibles de franchir les parois du tube digestif. 
 

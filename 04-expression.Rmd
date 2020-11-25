@@ -1,4 +1,4 @@
-# Expression des besoins des animaux et des apports de la ration {#expression}
+# Expression des besoins des animaux et des apports de la ration{#expression}
 
 Les animaux se caractérisent par 5 catégories de besoins différents qui doivent être couverts par l’alimentation : 
 

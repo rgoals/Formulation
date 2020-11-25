@@ -1,4 +1,4 @@
-# Rappels sur les aliments {#rappels}
+# Rappels sur les aliments{#rappels}
 
 Les aliments peuvent être classés selon les nutriments principaux qui les composent et qu'ils apportent dans la ration à savoir ceux qui fournissent l’**énergie**, les sources de **protéines**, de **calcium**, de **phosphore**, les autres **macroéléments**, les **oligo-éléments** et les **vitamines**.
 
