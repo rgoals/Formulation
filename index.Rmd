@@ -1,16 +1,17 @@
 --- 
 title: "Principes de la formulation des aliments pour animaux d'élevage"
-author: "Zonlehoua Coulibali, Agronome, PhD."
+author: "Z. Coulibali, Agronome, PhD."
 date: "28/10/2020" #"`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 #bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Notes du cours de formulation, format gitbook."
+description: "Notes de cours Formulation des aliments du bétail"
 ---
 
 # Objectifs du cours {#intro}
+
 
 L’intérêt de la formulation des aliments pour animaux tient à l’adaptation permanente de leur composition à des contraintes variées et évolutives, à l’ajustement du pourcentage de chaque composante en fonction du contexte technique et des besoins des animaux. La formulation tient aussi compte de l'évolution du coût des matières premières.
 
